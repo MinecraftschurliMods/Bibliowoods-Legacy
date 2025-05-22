@@ -1,6 +1,6 @@
 {
-  "parent": "bibliocraft:block/template/shelf",
-  "textures": {
-    "texture": "vampirism:block/cursed_spruce_planks"
-  }
+    "parent": "bibliocraft:block/template/shelf",
+    "textures": {
+        "texture": "vampirism:block/cursed_spruce_planks"
+    }
 }

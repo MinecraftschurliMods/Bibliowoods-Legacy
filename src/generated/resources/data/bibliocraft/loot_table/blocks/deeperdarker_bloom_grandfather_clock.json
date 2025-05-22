@@ -1,36 +1,36 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "deeperdarker"
-    }
-  ],
-  "type": "minecraft:block",
-  "pools": [
-    {
-      "bonus_rolls": 0.0,
-      "conditions": [
+    "neoforge:conditions": [
         {
-          "condition": "minecraft:survives_explosion"
+            "type": "neoforge:mod_loaded",
+            "modid": "deeperdarker"
         }
-      ],
-      "entries": [
+    ],
+    "type": "minecraft:block",
+    "pools": [
         {
-          "type": "minecraft:item",
-          "conditions": [
-            {
-              "block": "bibliocraft:deeperdarker_bloom_grandfather_clock",
-              "condition": "minecraft:block_state_property",
-              "properties": {
-                "half": "lower"
-              }
-            }
-          ],
-          "name": "bibliocraft:deeperdarker_bloom_grandfather_clock"
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "condition": "minecraft:survives_explosion"
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "conditions": [
+                        {
+                            "block": "bibliocraft:deeperdarker_bloom_grandfather_clock",
+                            "condition": "minecraft:block_state_property",
+                            "properties": {
+                                "half": "lower"
+                            }
+                        }
+                    ],
+                    "name": "bibliocraft:deeperdarker_bloom_grandfather_clock"
+                }
+            ],
+            "rolls": 1.0
         }
-      ],
-      "rolls": 1.0
-    }
-  ],
-  "random_sequence": "bibliocraft:blocks/deeperdarker_bloom_grandfather_clock"
+    ],
+    "random_sequence": "bibliocraft:blocks/deeperdarker_bloom_grandfather_clock"
 }

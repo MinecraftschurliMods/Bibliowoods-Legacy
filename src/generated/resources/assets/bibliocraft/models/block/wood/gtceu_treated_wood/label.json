@@ -1,6 +1,6 @@
 {
-  "parent": "bibliocraft:block/template/label",
-  "textures": {
-    "texture": "gtceu:block/treated_wood_planks"
-  }
+    "parent": "bibliocraft:block/template/label",
+    "textures": {
+        "texture": "gtceu:block/treated_wood_planks"
+    }
 }

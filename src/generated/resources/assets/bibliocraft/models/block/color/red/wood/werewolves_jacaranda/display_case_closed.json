@@ -1,7 +1,7 @@
 {
-  "parent": "bibliocraft:block/template/display_case/closed",
-  "textures": {
-    "color": "minecraft:block/red_wool",
-    "texture": "werewolves:block/jacaranda_planks"
-  }
+    "parent": "bibliocraft:block/template/display_case/closed",
+    "textures": {
+        "color": "minecraft:block/red_wool",
+        "texture": "werewolves:block/jacaranda_planks"
+    }
 }

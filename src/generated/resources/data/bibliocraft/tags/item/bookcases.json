@@ -1,192 +1,268 @@
 {
-  "values": [
-    {
-      "id": "bibliocraft:aether_skyroot_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:allthemodium_ancient_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:allthemodium_soul_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:allthemodium_demonic_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:ars_nouveau_archwood_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:butchercraft_barn_wood_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:cobblemon_apricorn_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_roseroot_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_yagroot_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_cruderoot_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_conberry_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_sunroot_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deeperdarker_echo_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deeperdarker_bloom_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_lunar_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_northland_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_starlight_mangrove_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_scarlet_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_torreya_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_jinglestem_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:expandeddelight_cinnamon_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:extradelight_cinnamon_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:extradelight_fruit_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:forbidden_arcanus_fungyss_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:forbidden_arcanus_aurum_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:forbidden_arcanus_edelwood_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:gtceu_rubber_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:gtceu_treated_wood_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:integrateddynamics_menril_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:mynethersdelight_powdery_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:occultism_otherplanks_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:silentgear_netherwood_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_twilight_oak_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_canopy_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_mangrove_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_dark_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_time_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_transformation_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_mining_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_sorting_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:undergarden_smogstem_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:undergarden_wigglewood_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:undergarden_grongle_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:vampirism_dark_spruce_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:vampirism_cursed_spruce_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:werewolves_jacaranda_bookcase",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:werewolves_magic_bookcase",
-      "required": false
-    }
-  ]
+    "values": [
+        {
+            "id": "bibliocraft:aether_skyroot_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:allthemodium_ancient_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:allthemodium_soul_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:allthemodium_demonic_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ars_nouveau_archwood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:butchercraft_barn_wood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cobblemon_apricorn_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_roseroot_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_yagroot_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_cruderoot_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_conberry_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_sunroot_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deeperdarker_echo_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deeperdarker_bloom_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_lunar_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_northland_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_starlight_mangrove_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_scarlet_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_torreya_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_jinglestem_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:expandeddelight_cinnamon_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:extradelight_cinnamon_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:extradelight_fruit_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:forbidden_arcanus_fungyss_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:forbidden_arcanus_aurum_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:forbidden_arcanus_edelwood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gtceu_rubber_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gtceu_treated_wood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_mahogany_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_polished_mahogany_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_willow_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_polished_willow_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_witch_hazel_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_polished_witch_hazel_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:integrateddynamics_menril_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:mirthdew_encore_clinkera_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:mirthdew_encore_decidrheum_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:mynethersdelight_powdery_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:occultism_otherplanks_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:roots_wildwood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:silentgear_netherwood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:thaumon_greatwood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:thaumon_silverwood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tropicraft_mahogany_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tropicraft_mangrove_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tropicraft_palm_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_twilight_oak_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_canopy_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_mangrove_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_dark_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_time_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_transformation_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_mining_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_sorting_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:undergarden_smogstem_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:undergarden_wigglewood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:undergarden_grongle_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:vampirism_dark_spruce_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:vampirism_cursed_spruce_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:werewolves_jacaranda_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:werewolves_magic_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:witchery_alder_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:witchery_hawthorn_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:witchery_rowan_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:wwizardry_denia_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:wwizardry_mycha_bookcase",
+            "required": false
+        }
+    ]
 }

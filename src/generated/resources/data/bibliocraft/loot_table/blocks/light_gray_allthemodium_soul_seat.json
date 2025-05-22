@@ -1,27 +1,27 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "allthemodium"
-    }
-  ],
-  "type": "minecraft:block",
-  "pools": [
-    {
-      "bonus_rolls": 0.0,
-      "conditions": [
+    "neoforge:conditions": [
         {
-          "condition": "minecraft:survives_explosion"
+            "type": "neoforge:mod_loaded",
+            "modid": "allthemodium"
         }
-      ],
-      "entries": [
+    ],
+    "type": "minecraft:block",
+    "pools": [
         {
-          "type": "minecraft:item",
-          "name": "bibliocraft:light_gray_allthemodium_soul_seat"
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "condition": "minecraft:survives_explosion"
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "bibliocraft:light_gray_allthemodium_soul_seat"
+                }
+            ],
+            "rolls": 1.0
         }
-      ],
-      "rolls": 1.0
-    }
-  ],
-  "random_sequence": "bibliocraft:blocks/light_gray_allthemodium_soul_seat"
+    ],
+    "random_sequence": "bibliocraft:blocks/light_gray_allthemodium_soul_seat"
 }

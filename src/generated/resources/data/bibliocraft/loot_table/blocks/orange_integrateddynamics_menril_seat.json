@@ -1,27 +1,27 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "integrateddynamics"
-    }
-  ],
-  "type": "minecraft:block",
-  "pools": [
-    {
-      "bonus_rolls": 0.0,
-      "conditions": [
+    "neoforge:conditions": [
         {
-          "condition": "minecraft:survives_explosion"
+            "type": "neoforge:mod_loaded",
+            "modid": "integrateddynamics"
         }
-      ],
-      "entries": [
+    ],
+    "type": "minecraft:block",
+    "pools": [
         {
-          "type": "minecraft:item",
-          "name": "bibliocraft:orange_integrateddynamics_menril_seat"
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "condition": "minecraft:survives_explosion"
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "bibliocraft:orange_integrateddynamics_menril_seat"
+                }
+            ],
+            "rolls": 1.0
         }
-      ],
-      "rolls": 1.0
-    }
-  ],
-  "random_sequence": "bibliocraft:blocks/orange_integrateddynamics_menril_seat"
+    ],
+    "random_sequence": "bibliocraft:blocks/orange_integrateddynamics_menril_seat"
 }

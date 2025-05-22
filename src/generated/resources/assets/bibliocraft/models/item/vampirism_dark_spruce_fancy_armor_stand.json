@@ -1,6 +1,6 @@
 {
-  "parent": "bibliocraft:block/template/fancy_armor_stand/inventory",
-  "textures": {
-    "texture": "vampirism:block/dark_spruce_planks"
-  }
+    "parent": "bibliocraft:block/template/fancy_armor_stand/inventory",
+    "textures": {
+        "texture": "vampirism:block/dark_spruce_planks"
+    }
 }

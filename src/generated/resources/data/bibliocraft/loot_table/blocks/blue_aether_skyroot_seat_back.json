@@ -1,88 +1,88 @@
 {
-  "neoforge:conditions": [
-    {
-      "type": "neoforge:mod_loaded",
-      "modid": "aether"
-    }
-  ],
-  "type": "minecraft:block",
-  "pools": [
-    {
-      "bonus_rolls": 0.0,
-      "conditions": [
+    "neoforge:conditions": [
         {
-          "condition": "minecraft:survives_explosion"
+            "type": "neoforge:mod_loaded",
+            "modid": "aether"
         }
-      ],
-      "entries": [
+    ],
+    "type": "minecraft:block",
+    "pools": [
         {
-          "type": "minecraft:item",
-          "conditions": [
-            {
-              "block": "bibliocraft:blue_aether_skyroot_seat_back",
-              "condition": "minecraft:block_state_property",
-              "properties": {
-                "type": "small"
-              }
-            }
-          ],
-          "name": "bibliocraft:blue_aether_skyroot_small_seat_back"
-        },
-        {
-          "type": "minecraft:item",
-          "conditions": [
-            {
-              "block": "bibliocraft:blue_aether_skyroot_seat_back",
-              "condition": "minecraft:block_state_property",
-              "properties": {
-                "type": "raised"
-              }
-            }
-          ],
-          "name": "bibliocraft:blue_aether_skyroot_raised_seat_back"
-        },
-        {
-          "type": "minecraft:item",
-          "conditions": [
-            {
-              "block": "bibliocraft:blue_aether_skyroot_seat_back",
-              "condition": "minecraft:block_state_property",
-              "properties": {
-                "type": "flat"
-              }
-            }
-          ],
-          "name": "bibliocraft:blue_aether_skyroot_flat_seat_back"
-        },
-        {
-          "type": "minecraft:item",
-          "conditions": [
-            {
-              "block": "bibliocraft:blue_aether_skyroot_seat_back",
-              "condition": "minecraft:block_state_property",
-              "properties": {
-                "type": "tall"
-              }
-            }
-          ],
-          "name": "bibliocraft:blue_aether_skyroot_tall_seat_back"
-        },
-        {
-          "type": "minecraft:item",
-          "conditions": [
-            {
-              "block": "bibliocraft:blue_aether_skyroot_seat_back",
-              "condition": "minecraft:block_state_property",
-              "properties": {
-                "type": "fancy"
-              }
-            }
-          ],
-          "name": "bibliocraft:blue_aether_skyroot_fancy_seat_back"
+            "bonus_rolls": 0.0,
+            "conditions": [
+                {
+                    "condition": "minecraft:survives_explosion"
+                }
+            ],
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "conditions": [
+                        {
+                            "block": "bibliocraft:blue_aether_skyroot_seat_back",
+                            "condition": "minecraft:block_state_property",
+                            "properties": {
+                                "type": "small"
+                            }
+                        }
+                    ],
+                    "name": "bibliocraft:blue_aether_skyroot_small_seat_back"
+                },
+                {
+                    "type": "minecraft:item",
+                    "conditions": [
+                        {
+                            "block": "bibliocraft:blue_aether_skyroot_seat_back",
+                            "condition": "minecraft:block_state_property",
+                            "properties": {
+                                "type": "raised"
+                            }
+                        }
+                    ],
+                    "name": "bibliocraft:blue_aether_skyroot_raised_seat_back"
+                },
+                {
+                    "type": "minecraft:item",
+                    "conditions": [
+                        {
+                            "block": "bibliocraft:blue_aether_skyroot_seat_back",
+                            "condition": "minecraft:block_state_property",
+                            "properties": {
+                                "type": "flat"
+                            }
+                        }
+                    ],
+                    "name": "bibliocraft:blue_aether_skyroot_flat_seat_back"
+                },
+                {
+                    "type": "minecraft:item",
+                    "conditions": [
+                        {
+                            "block": "bibliocraft:blue_aether_skyroot_seat_back",
+                            "condition": "minecraft:block_state_property",
+                            "properties": {
+                                "type": "tall"
+                            }
+                        }
+                    ],
+                    "name": "bibliocraft:blue_aether_skyroot_tall_seat_back"
+                },
+                {
+                    "type": "minecraft:item",
+                    "conditions": [
+                        {
+                            "block": "bibliocraft:blue_aether_skyroot_seat_back",
+                            "condition": "minecraft:block_state_property",
+                            "properties": {
+                                "type": "fancy"
+                            }
+                        }
+                    ],
+                    "name": "bibliocraft:blue_aether_skyroot_fancy_seat_back"
+                }
+            ],
+            "rolls": 1.0
         }
-      ],
-      "rolls": 1.0
-    }
-  ],
-  "random_sequence": "bibliocraft:blocks/blue_aether_skyroot_seat_back"
+    ],
+    "random_sequence": "bibliocraft:blocks/blue_aether_skyroot_seat_back"
 }
