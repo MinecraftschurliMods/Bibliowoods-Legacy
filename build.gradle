@@ -23,57 +23,61 @@ dependencies {
     compileOnly "mezz.jei:jei-${mc_version}-neoforge-api:${jei_version}"
     runtimeOnly "mezz.jei:jei-${mc_version}-neoforge:${jei_version}"
 
+    // At this point, we need some performance boosters.
+    implementation "curse.maven:ferritecore-429235:5850121"
+    implementation "curse.maven:modernfix-790626:6766126"
+
     // Aether
     implementation "curse.maven:aether-255308:6389857"
     implementation "curse.maven:owo-lib-532610:6416633"
     // Allthemodium
-    implementation "curse.maven:allthemodium-364466:6389532"
+    implementation "curse.maven:allthemodium-364466:6638078"
     // Ars Nouveau
-    implementation "curse.maven:ars-nouveau-401955:6407266"
-    implementation "curse.maven:curios-309927:6401872"
-    implementation "curse.maven:geckolib-388172:6304958"
+    implementation "curse.maven:ars-nouveau-401955:6770346"
+    implementation "curse.maven:curios-309927:6529130"
+    implementation "curse.maven:geckolib-388172:6659026"
     // Butchercraft
-    implementation "curse.maven:butchercraft-265715:6058964"
+    implementation "curse.maven:butchercraft-265715:6714774"
     // Cobblemon
     implementation "curse.maven:cobblemon-687131:6125026"
-    implementation "curse.maven:kotlin-for-forge-351264:5978393"
+    implementation "curse.maven:kotlin-for-forge-351264:6706911"
     // Deep Aether
-    implementation "curse.maven:deep-aether-852465:6221136"
+    implementation "curse.maven:deep-aether-852465:6512691"
     // Deeper and Darker
-    implementation "curse.maven:deeperdarker-659011:5908863"
+    implementation "curse.maven:deeperdarker-659011:6463247"
     // Eternal Starlight
-    implementation "curse.maven:eternal-starlight-1080592:6383693"
+    implementation "curse.maven:eternal-starlight-1080592:6797801"
     // Expanded Delight
-    implementation "curse.maven:expanded-delight-620770:6125094"
-    implementation "curse.maven:farmers-delight-398521:6154807"
+    implementation "curse.maven:expanded-delight-620770:6785113"
+    implementation "curse.maven:farmers-delight-398521:6597295"
     // Extra Delight
-    implementation "curse.maven:extradelight-842106:6362163"
+    implementation "curse.maven:extradelight-842106:6717470"
     // Forbidden Arcanus
-    implementation "curse.maven:forbidden-arcanus-309858:6331424"
+    implementation "curse.maven:forbidden-arcanus-309858:6651314"
     implementation "curse.maven:valhelsia-core-416935:6296775"
     // GregTech
-    implementation "curse.maven:gregtechceu-modern-890405:5812613"
+    implementation "curse.maven:gregtechceu-modern-890405:6792853"
     // Integrated Dynamics
-    implementation "curse.maven:integrated-dynamics-236307:6418767"
-    implementation "curse.maven:common-capabilities-247007:6384335"
-    implementation "curse.maven:cyclops-core-232758:6414678"
+    implementation "curse.maven:integrated-dynamics-236307:6784675"
+    implementation "curse.maven:common-capabilities-247007:6783311"
+    implementation "curse.maven:cyclops-core-232758:6783344"
     // My Nether's Delight
-    implementation "curse.maven:my-nethers-delight-1003673:5977439"
+    implementation "curse.maven:my-nethers-delight-1003673:6460371"
     // Occultism
-    implementation "curse.maven:occultism-361026:6355135"
-    implementation "curse.maven:modonomicon-538392:6338537"
-    implementation "curse.maven:smartbrainlib-661293:6101242"
+    implementation "curse.maven:occultism-361026:6700987"
+    implementation "curse.maven:modonomicon-538392:6741276"
+    implementation "curse.maven:smartbrainlib-661293:6762621"
     // Silent Gear
-    implementation "curse.maven:silent-gear-297039:6401304"
-    implementation "curse.maven:silent-lib-242998:6285150"
+    implementation "curse.maven:silent-gear-297039:6761558"
+    implementation "curse.maven:silent-lib-242998:6565251"
     // Twilight Forest
-    implementation "curse.maven:the-twilight-forest-227639:6384738"
+    implementation "curse.maven:the-twilight-forest-227639:6472889"
     // Undergarden
-    implementation "curse.maven:the-undergarden-379849:5769852"
+    implementation "curse.maven:the-undergarden-379849:6687578"
     // Vampirism
-    implementation "curse.maven:vampirism-become-a-vampire-233029:6387585"
+    implementation "curse.maven:vampirism-become-a-vampire-233029:6544569"
     // Werewolves
-    implementation "curse.maven:werewolves-become-a-beast-417851:6164806"
+    implementation "curse.maven:werewolves-become-a-beast-417851:6787229"
 }
 
 neoForge {
@@ -88,6 +92,8 @@ neoForge {
     runs {
         configureEach {
             systemProperty 'forge.logging.console.level', 'debug'
+            // We ran out of RAM before.
+            jvmArgument('-Xmx6G')
         }
         client {
             client()
