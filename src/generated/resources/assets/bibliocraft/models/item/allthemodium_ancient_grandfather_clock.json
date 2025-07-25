@@ -1,6 +1,6 @@
 {
-  "parent": "bibliocraft:block/template/clock/grandfather_inventory",
-  "textures": {
-    "texture": "allthemodium:block/ancient_planks"
-  }
+    "parent": "bibliocraft:block/template/clock/grandfather_inventory",
+    "textures": {
+        "texture": "allthemodium:block/ancient_planks"
+    }
 }

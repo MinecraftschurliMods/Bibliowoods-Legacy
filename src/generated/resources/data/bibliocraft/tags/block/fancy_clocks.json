@@ -1,380 +1,532 @@
 {
-  "values": [
-    {
-      "id": "bibliocraft:aether_skyroot_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:aether_skyroot_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:allthemodium_ancient_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:allthemodium_ancient_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:allthemodium_soul_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:allthemodium_soul_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:allthemodium_demonic_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:allthemodium_demonic_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:ars_nouveau_archwood_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:ars_nouveau_archwood_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:butchercraft_barn_wood_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:butchercraft_barn_wood_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:cobblemon_apricorn_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:cobblemon_apricorn_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_roseroot_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_roseroot_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_yagroot_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_yagroot_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_cruderoot_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_cruderoot_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_conberry_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_conberry_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_sunroot_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_sunroot_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deeperdarker_echo_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deeperdarker_echo_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deeperdarker_bloom_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deeperdarker_bloom_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_lunar_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_lunar_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_northland_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_northland_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_starlight_mangrove_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_starlight_mangrove_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_scarlet_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_scarlet_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_torreya_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_torreya_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_jinglestem_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_jinglestem_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:expandeddelight_cinnamon_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:expandeddelight_cinnamon_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:extradelight_cinnamon_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:extradelight_cinnamon_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:extradelight_fruit_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:extradelight_fruit_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:forbidden_arcanus_fungyss_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:forbidden_arcanus_fungyss_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:forbidden_arcanus_aurum_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:forbidden_arcanus_aurum_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:forbidden_arcanus_edelwood_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:forbidden_arcanus_edelwood_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:gtceu_rubber_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:gtceu_rubber_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:gtceu_treated_wood_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:gtceu_treated_wood_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:integrateddynamics_menril_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:integrateddynamics_menril_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:mynethersdelight_powdery_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:mynethersdelight_powdery_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:occultism_otherplanks_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:occultism_otherplanks_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:silentgear_netherwood_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:silentgear_netherwood_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_twilight_oak_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_twilight_oak_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_canopy_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_canopy_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_mangrove_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_mangrove_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_dark_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_dark_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_time_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_time_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_transformation_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_transformation_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_mining_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_mining_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_sorting_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_sorting_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:undergarden_smogstem_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:undergarden_smogstem_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:undergarden_wigglewood_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:undergarden_wigglewood_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:undergarden_grongle_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:undergarden_grongle_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:vampirism_dark_spruce_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:vampirism_dark_spruce_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:vampirism_cursed_spruce_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:vampirism_cursed_spruce_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:werewolves_jacaranda_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:werewolves_jacaranda_wall_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:werewolves_magic_fancy_clock",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:werewolves_magic_wall_fancy_clock",
-      "required": false
-    }
-  ]
+    "values": [
+        {
+            "id": "bibliocraft:aether_skyroot_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:aether_skyroot_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:allthemodium_ancient_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:allthemodium_ancient_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:allthemodium_soul_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:allthemodium_soul_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:allthemodium_demonic_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:allthemodium_demonic_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ars_nouveau_archwood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ars_nouveau_archwood_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:butchercraft_barn_wood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:butchercraft_barn_wood_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cobblemon_apricorn_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cobblemon_apricorn_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_roseroot_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_roseroot_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_yagroot_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_yagroot_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_cruderoot_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_cruderoot_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_conberry_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_conberry_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_sunroot_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_sunroot_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deeperdarker_echo_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deeperdarker_echo_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deeperdarker_bloom_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deeperdarker_bloom_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_lunar_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_lunar_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_northland_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_northland_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_starlight_mangrove_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_starlight_mangrove_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_scarlet_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_scarlet_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_torreya_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_torreya_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_jinglestem_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_jinglestem_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:expandeddelight_cinnamon_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:expandeddelight_cinnamon_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:extradelight_cinnamon_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:extradelight_cinnamon_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:extradelight_fruit_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:extradelight_fruit_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:forbidden_arcanus_fungyss_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:forbidden_arcanus_fungyss_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:forbidden_arcanus_aurum_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:forbidden_arcanus_aurum_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:forbidden_arcanus_edelwood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:forbidden_arcanus_edelwood_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gtceu_rubber_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gtceu_rubber_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gtceu_treated_wood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gtceu_treated_wood_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_mahogany_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_mahogany_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_polished_mahogany_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_polished_mahogany_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_willow_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_willow_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_polished_willow_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_polished_willow_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_witch_hazel_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_witch_hazel_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_polished_witch_hazel_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_polished_witch_hazel_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:integrateddynamics_menril_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:integrateddynamics_menril_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:mirthdew_encore_clinkera_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:mirthdew_encore_clinkera_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:mirthdew_encore_decidrheum_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:mirthdew_encore_decidrheum_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:mynethersdelight_powdery_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:mynethersdelight_powdery_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:occultism_otherplanks_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:occultism_otherplanks_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:roots_wildwood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:roots_wildwood_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:silentgear_netherwood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:silentgear_netherwood_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:thaumon_greatwood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:thaumon_greatwood_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:thaumon_silverwood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:thaumon_silverwood_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tropicraft_mahogany_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tropicraft_mahogany_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tropicraft_mangrove_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tropicraft_mangrove_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tropicraft_palm_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tropicraft_palm_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_twilight_oak_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_twilight_oak_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_canopy_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_canopy_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_mangrove_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_mangrove_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_dark_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_dark_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_time_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_time_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_transformation_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_transformation_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_mining_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_mining_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_sorting_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_sorting_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:undergarden_smogstem_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:undergarden_smogstem_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:undergarden_wigglewood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:undergarden_wigglewood_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:undergarden_grongle_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:undergarden_grongle_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:vampirism_dark_spruce_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:vampirism_dark_spruce_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:vampirism_cursed_spruce_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:vampirism_cursed_spruce_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:werewolves_jacaranda_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:werewolves_jacaranda_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:werewolves_magic_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:werewolves_magic_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:witchery_alder_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:witchery_alder_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:witchery_hawthorn_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:witchery_hawthorn_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:witchery_rowan_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:witchery_rowan_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:wwizardry_denia_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:wwizardry_denia_wall_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:wwizardry_mycha_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:wwizardry_mycha_wall_fancy_clock",
+            "required": false
+        }
+    ]
 }

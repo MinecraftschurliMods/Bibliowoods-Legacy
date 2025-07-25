@@ -1,192 +1,268 @@
 {
-  "values": [
-    {
-      "id": "bibliocraft:aether_skyroot_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:allthemodium_ancient_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:allthemodium_soul_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:allthemodium_demonic_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:ars_nouveau_archwood_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:butchercraft_barn_wood_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:cobblemon_apricorn_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_roseroot_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_yagroot_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_cruderoot_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_conberry_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deep_aether_sunroot_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deeperdarker_echo_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:deeperdarker_bloom_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_lunar_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_northland_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_starlight_mangrove_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_scarlet_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_torreya_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:eternal_starlight_jinglestem_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:expandeddelight_cinnamon_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:extradelight_cinnamon_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:extradelight_fruit_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:forbidden_arcanus_fungyss_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:forbidden_arcanus_aurum_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:forbidden_arcanus_edelwood_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:gtceu_rubber_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:gtceu_treated_wood_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:integrateddynamics_menril_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:mynethersdelight_powdery_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:occultism_otherplanks_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:silentgear_netherwood_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_twilight_oak_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_canopy_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_mangrove_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_dark_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_time_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_transformation_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_mining_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:twilightforest_sorting_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:undergarden_smogstem_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:undergarden_wigglewood_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:undergarden_grongle_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:vampirism_dark_spruce_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:vampirism_cursed_spruce_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:werewolves_jacaranda_tool_rack",
-      "required": false
-    },
-    {
-      "id": "bibliocraft:werewolves_magic_tool_rack",
-      "required": false
-    }
-  ]
+    "values": [
+        {
+            "id": "bibliocraft:aether_skyroot_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:allthemodium_ancient_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:allthemodium_soul_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:allthemodium_demonic_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ars_nouveau_archwood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:butchercraft_barn_wood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cobblemon_apricorn_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_roseroot_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_yagroot_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_cruderoot_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_conberry_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deep_aether_sunroot_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deeperdarker_echo_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:deeperdarker_bloom_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_lunar_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_northland_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_starlight_mangrove_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_scarlet_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_torreya_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:eternal_starlight_jinglestem_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:expandeddelight_cinnamon_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:extradelight_cinnamon_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:extradelight_fruit_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:forbidden_arcanus_fungyss_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:forbidden_arcanus_aurum_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:forbidden_arcanus_edelwood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gtceu_rubber_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gtceu_treated_wood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_mahogany_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_polished_mahogany_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_willow_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_polished_willow_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_witch_hazel_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:hexerei_polished_witch_hazel_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:integrateddynamics_menril_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:mirthdew_encore_clinkera_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:mirthdew_encore_decidrheum_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:mynethersdelight_powdery_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:occultism_otherplanks_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:roots_wildwood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:silentgear_netherwood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:thaumon_greatwood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:thaumon_silverwood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tropicraft_mahogany_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tropicraft_mangrove_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tropicraft_palm_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_twilight_oak_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_canopy_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_mangrove_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_dark_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_time_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_transformation_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_mining_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:twilightforest_sorting_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:undergarden_smogstem_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:undergarden_wigglewood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:undergarden_grongle_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:vampirism_dark_spruce_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:vampirism_cursed_spruce_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:werewolves_jacaranda_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:werewolves_magic_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:witchery_alder_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:witchery_hawthorn_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:witchery_rowan_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:wwizardry_denia_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:wwizardry_mycha_tool_rack",
+            "required": false
+        }
+    ]
 }

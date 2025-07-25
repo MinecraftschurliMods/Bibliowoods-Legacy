@@ -1,6 +1,6 @@
 {
-  "parent": "bibliocraft:block/template/shelf",
-  "textures": {
-    "texture": "forbidden_arcanus:block/aurum_planks"
-  }
+    "parent": "bibliocraft:block/template/shelf",
+    "textures": {
+        "texture": "forbidden_arcanus:block/aurum_planks"
+    }
 }
