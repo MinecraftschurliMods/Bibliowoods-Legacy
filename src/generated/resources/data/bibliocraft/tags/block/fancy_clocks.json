@@ -169,6 +169,14 @@
             "required": false
         },
         {
+            "id": "bibliocraft:evilcraft_cinnamon_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:evilcraft_cinnamon_wall_fancy_clock",
+            "required": false
+        },
+        {
             "id": "bibliocraft:expandeddelight_cinnamon_fancy_clock",
             "required": false
         },

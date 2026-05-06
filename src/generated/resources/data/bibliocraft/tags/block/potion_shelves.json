@@ -85,6 +85,10 @@
             "required": false
         },
         {
+            "id": "bibliocraft:evilcraft_cinnamon_potion_shelf",
+            "required": false
+        },
+        {
             "id": "bibliocraft:expandeddelight_cinnamon_potion_shelf",
             "required": false
         },

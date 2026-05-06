@@ -44,6 +44,7 @@ public final class BibliowoodsDatagen {
         helper.addWoodTypesToGenerateByModid("deep_aether");
         helper.addWoodTypesToGenerateByModid("deeperdarker");
         helper.addWoodTypesToGenerateByModid("eternal_starlight");
+        helper.addWoodTypesToGenerateByModid("evilcraft");
         helper.addWoodTypesToGenerateByModid("expandeddelight");
         helper.addWoodTypesToGenerateByModid("extradelight");
         helper.addWoodTypesToGenerateByModid("forbidden_arcanus");

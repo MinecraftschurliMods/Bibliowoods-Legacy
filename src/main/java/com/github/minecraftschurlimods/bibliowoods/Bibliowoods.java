@@ -47,6 +47,7 @@ public final class Bibliowoods {
         addIfLoaded("deep_aether",       bus, DeepAetherMod::new);
         addIfLoaded("deeperdarker",      bus, DeeperAndDarkerMod::new);
         addIfLoaded("eternal_starlight", bus, EternalStarlightMod::new);
+        addIfLoaded("evilcraft",         bus, ExpandedDelightMod::new);
         addIfLoaded("expandeddelight",   bus, ExpandedDelightMod::new);
         addIfLoaded("extradelight",      bus, ExtraDelightMod::new);
         addIfLoaded("forbidden_arcanus", bus, ForbiddenArcanusMod::new);

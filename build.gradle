@@ -32,6 +32,8 @@ dependencies {
     // At this point, we need some performance boosters.
     implementation "curse.maven:ferritecore-429235:7524151"
     implementation "curse.maven:modernfix-790626:8045979"
+    // Some mod crashes without Refined Storage but no idea which one.
+    implementation "curse.maven:refined-storage-243076:8016647"
 
     // Aether
     implementation "curse.maven:aether-255308:7043502"
@@ -58,6 +60,9 @@ dependencies {
     implementation "curse.maven:deeperdarker-659011:7940538"
     // Eternal Starlight
     implementation "curse.maven:eternal-starlight-1080592:7788339"
+    // EvilCraft
+    implementation "curse.maven:evilcraft-74610:7983083"
+    implementation "curse.maven:cyclops-core-232758:8006281"
     // Expanded Delight
     implementation "curse.maven:expanded-delight-620770:7441587"
     implementation "curse.maven:farmers-delight-398521:8007613"
@@ -74,7 +79,6 @@ dependencies {
     // Integrated Dynamics
     implementation "curse.maven:integrated-dynamics-236307:8039124"
     implementation "curse.maven:common-capabilities-247007:7756804"
-    implementation "curse.maven:cyclops-core-232758:8006281"
     // Just Another Witchery Remake
     implementation "curse.maven:just-another-witchery-remake-1125946:8011721"
     implementation "curse.maven:architectury-api-419699:5786327"
@@ -139,6 +143,7 @@ neoForge {
                     '--existing-mod', 'deep_aether',
                     '--existing-mod', 'deeperdarker',
                     '--existing-mod', 'eternal_starlight',
+                    '--existing-mod', 'evilcraft',
                     '--existing-mod', 'expandeddelight',
                     '--existing-mod', 'extradelight',
                     '--existing-mod', 'forbidden_arcanus',
