@@ -1,0 +1,40 @@
+{
+  "values": [
+    {
+      "id": "bibliocraft:allthemodium_ancient_label",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_soul_label",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_demonic_label",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:evilcraft_undead_label",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_fungyss_label",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_aurum_label",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_edelwood_label",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:integrateddynamics_menril_label",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:occultism_otherplanks_label",
+      "required": false
+    }
+  ]
+}

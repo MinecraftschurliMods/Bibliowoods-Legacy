@@ -1,0 +1,25 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_clock",
+  "key": {
+    "C": "minecraft:clock",
+    "I": "#c:ingots/copper",
+    "R": "#c:rods/wooden",
+    "S": "allthemodium:ancient_slab"
+  },
+  "pattern": [
+    "SCS",
+    "SRS",
+    "SIS"
+  ],
+  "result": {
+    "id": "bibliocraft:allthemodium_ancient_fancy_clock"
+  }
+}

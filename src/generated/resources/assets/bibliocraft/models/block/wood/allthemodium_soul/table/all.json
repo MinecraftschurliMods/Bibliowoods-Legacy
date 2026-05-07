@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/table/all",
+  "textures": {
+    "texture": "allthemodium:block/soul_planks"
+  }
+}

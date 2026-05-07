@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "evilcraft"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:potion_shelves",
+  "key": {
+    "#": "minecraft:glass_bottle",
+    "P": "evilcraft:undead_planks",
+    "S": "evilcraft:undead_slab"
+  },
+  "pattern": [
+    "SSS",
+    "P#P",
+    "SSS"
+  ],
+  "result": {
+    "id": "bibliocraft:evilcraft_undead_potion_shelf"
+  }
+}

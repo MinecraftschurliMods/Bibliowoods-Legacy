@@ -1,0 +1,40 @@
+{
+  "values": [
+    {
+      "id": "bibliocraft:allthemodium_ancient_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_soul_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:allthemodium_demonic_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:evilcraft_undead_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_fungyss_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_aurum_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:forbidden_arcanus_edelwood_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:integrateddynamics_menril_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:occultism_otherplanks_fancy_clock",
+      "required": false
+    }
+  ]
+}

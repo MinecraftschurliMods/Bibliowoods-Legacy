@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_sign",
+  "key": {
+    "#": "minecraft:paper",
+    "P": "forbidden_arcanus:aurum_planks",
+    "R": "#c:rods/wooden"
+  },
+  "pattern": [
+    "P#P",
+    "P#P",
+    " R "
+  ],
+  "result": {
+    "id": "bibliocraft:forbidden_arcanus_aurum_fancy_sign"
+  }
+}

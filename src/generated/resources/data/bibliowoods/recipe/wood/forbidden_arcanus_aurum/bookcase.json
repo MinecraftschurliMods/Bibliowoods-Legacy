@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:bookcases",
+  "key": {
+    "P": "forbidden_arcanus:aurum_planks",
+    "S": "forbidden_arcanus:aurum_slab"
+  },
+  "pattern": [
+    "PSP",
+    "PSP",
+    "PSP"
+  ],
+  "result": {
+    "id": "bibliocraft:forbidden_arcanus_aurum_bookcase"
+  }
+}

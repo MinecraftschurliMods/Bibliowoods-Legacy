@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tool_racks",
+  "key": {
+    "#": "#c:ingots/iron",
+    "S": "forbidden_arcanus:fungyss_slab"
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "id": "bibliocraft:forbidden_arcanus_fungyss_tool_rack"
+  }
+}

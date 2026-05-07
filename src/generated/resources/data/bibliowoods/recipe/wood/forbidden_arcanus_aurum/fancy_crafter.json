@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_crafter",
+  "key": {
+    "C": "minecraft:crafter",
+    "F": "#c:feathers",
+    "G": "#c:glass_blocks",
+    "I": "#c:dyes/black",
+    "P": "forbidden_arcanus:aurum_planks",
+    "T": "#c:player_workstations/crafting_tables"
+  },
+  "pattern": [
+    "ITF",
+    "PGP",
+    "PCP"
+  ],
+  "result": {
+    "id": "bibliocraft:forbidden_arcanus_aurum_fancy_crafter"
+  }
+}

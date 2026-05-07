@@ -1,9 +1,8 @@
-/*
 package at.minecraftschurli.mods.bibliowoods.mods;
 
 import at.minecraftschurli.mods.bibliocraft.api.woodtype.RegisterBibliocraftWoodTypesEvent;
 import at.minecraftschurli.mods.bibliowoods.AbstractMod;
-import com.thevortex.allthemodium.registry.ModRegistry;
+import net.allthemods.allthemodium.core.registry.ATMBlocks;
 import net.neoforged.bus.api.IEventBus;
 
 public class AllthemodiumMod extends AbstractMod {
@@ -13,9 +12,8 @@ public class AllthemodiumMod extends AbstractMod {
 
     @Override
     protected void registerWoodTypes(RegisterBibliocraftWoodTypesEvent event) {
-        woodType(event, "ancient", ModRegistry.ANCIENT_PLANKS, ModRegistry.ANCIENT_WOODEN_SLABS, ModRegistry.ANCIENT_WOODEN_STAIRS);
-        woodType(event, "soul",    ModRegistry.SOUL_PLANKS,    ModRegistry.SOUL_WOODEN_SLABS,    ModRegistry.SOUL_WOODEN_STAIRS);
-        woodType(event, "demonic", ModRegistry.DEMONIC_PLANKS, ModRegistry.DEMONIC_WOODEN_SLABS, ModRegistry.DEMONIC_WOODEN_STAIRS);
+        woodType(event, "ancient", ATMBlocks.ANCIENT_PLANKS, ATMBlocks.ANCIENT_SLAB, ATMBlocks.ANCIENT_STAIRS);
+        woodType(event, "soul",    ATMBlocks.SOUL_PLANKS,    ATMBlocks.SOUL_SLAB,    ATMBlocks.SOUL_STAIRS);
+        woodType(event, "demonic", ATMBlocks.DEMONIC_PLANKS, ATMBlocks.DEMONIC_SLAB, ATMBlocks.DEMONIC_STAIRS);
     }
 }
-*/

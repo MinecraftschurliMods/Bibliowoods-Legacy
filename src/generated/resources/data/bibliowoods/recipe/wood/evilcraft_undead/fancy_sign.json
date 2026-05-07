@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "evilcraft"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_sign",
+  "key": {
+    "#": "minecraft:paper",
+    "P": "evilcraft:undead_planks",
+    "R": "#c:rods/wooden"
+  },
+  "pattern": [
+    "P#P",
+    "P#P",
+    " R "
+  ],
+  "result": {
+    "id": "bibliocraft:evilcraft_undead_fancy_sign"
+  }
+}

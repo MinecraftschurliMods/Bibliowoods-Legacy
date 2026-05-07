@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/table/all",
+  "textures": {
+    "texture": "evilcraft:block/undead_planks"
+  }
+}

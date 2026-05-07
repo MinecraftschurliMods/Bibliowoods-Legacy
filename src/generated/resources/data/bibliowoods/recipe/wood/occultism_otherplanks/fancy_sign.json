@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "occultism"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_sign",
+  "key": {
+    "#": "minecraft:paper",
+    "P": "occultism:otherplanks",
+    "R": "#c:rods/wooden"
+  },
+  "pattern": [
+    "P#P",
+    "P#P",
+    " R "
+  ],
+  "result": {
+    "id": "bibliocraft:occultism_otherplanks_fancy_sign"
+  }
+}

@@ -1,4 +1,3 @@
-/*
 package at.minecraftschurli.mods.bibliowoods.mods;
 
 import at.minecraftschurli.mods.bibliocraft.api.woodtype.RegisterBibliocraftWoodTypesEvent;
@@ -17,4 +16,3 @@ public class OccultismMod extends AbstractMod {
         woodType(event, "otherplanks", "block/otherplanks", OtherWoodType.OTHERPLANKS, OccultismBlocks.OTHERPLANKS, OccultismBlocks.OTHERPLANKS_SLAB, OccultismBlocks.OTHERPLANKS_STAIRS);
     }
 }
-*/

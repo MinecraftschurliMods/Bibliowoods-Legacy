@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:seats",
+  "key": {
+    "R": "#c:rods/wooden",
+    "S": "forbidden_arcanus:edelwood_slab",
+    "W": "minecraft:gray_wool"
+  },
+  "pattern": [
+    " W ",
+    " S ",
+    "RSR"
+  ],
+  "result": {
+    "id": "bibliocraft:gray_forbidden_arcanus_edelwood_seat"
+  }
+}
