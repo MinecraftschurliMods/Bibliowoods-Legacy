@@ -13,6 +13,10 @@
       "required": false
     },
     {
+      "id": "bibliocraft:arsmagicalegacy_witchwood_table",
+      "required": false
+    },
+    {
       "id": "bibliocraft:evilcraft_undead_table",
       "required": false
     },

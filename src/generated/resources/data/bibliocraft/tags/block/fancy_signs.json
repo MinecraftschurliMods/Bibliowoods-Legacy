@@ -25,6 +25,14 @@
       "required": false
     },
     {
+      "id": "bibliocraft:arsmagicalegacy_witchwood_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:arsmagicalegacy_witchwood_wall_fancy_sign",
+      "required": false
+    },
+    {
       "id": "bibliocraft:evilcraft_undead_fancy_sign",
       "required": false
     },

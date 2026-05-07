@@ -193,6 +193,70 @@
       "required": false
     },
     {
+      "id": "bibliocraft:white_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_arsmagicalegacy_witchwood_raised_seat_back",
+      "required": false
+    },
+    {
       "id": "bibliocraft:white_evilcraft_undead_raised_seat_back",
       "required": false
     },

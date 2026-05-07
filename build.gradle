@@ -42,6 +42,10 @@ dependencies {
     // Allthemodium
     implementation "curse.maven:allthemodium-364466:8021821"
     implementation "curse.maven:ato-405593:8023670"
+    // Ars Magica: Legacy
+    // TODO use maven instead
+    implementation files("libs/arsmagicalegacy-${mc_version}-1.6.0-SNAPSHOT.jar")
+    implementation "vazkii.patchouli:patchouli-neoforge:26.1-94-SNAPSHOT"
     // Ars Nouveau
     //implementation "curse.maven:ars-nouveau-401955:7764018"
     implementation "curse.maven:curios-309927:7925547"

@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "arsmagicalegacy"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:flat_seat_backs",
+  "key": {
+    "R": "#c:rods/wooden",
+    "S": "arsmagicalegacy:witchwood_slab",
+    "W": "minecraft:lime_wool"
+  },
+  "pattern": [
+    "RWR",
+    "RSR",
+    "R R"
+  ],
+  "result": {
+    "id": "bibliocraft:lime_arsmagicalegacy_witchwood_flat_seat_back"
+  }
+}

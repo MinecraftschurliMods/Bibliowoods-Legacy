@@ -13,6 +13,10 @@
       "required": false
     },
     {
+      "id": "bibliocraft:arsmagicalegacy_witchwood_potion_shelf",
+      "required": false
+    },
+    {
       "id": "bibliocraft:evilcraft_undead_potion_shelf",
       "required": false
     },

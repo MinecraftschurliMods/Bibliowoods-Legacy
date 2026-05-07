@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "arsmagicalegacy"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_armor_stands",
+  "key": {
+    "R": "#c:rods/wooden",
+    "S": "arsmagicalegacy:witchwood_slab"
+  },
+  "pattern": [
+    " R ",
+    " R ",
+    "SSS"
+  ],
+  "result": {
+    "id": "bibliocraft:arsmagicalegacy_witchwood_fancy_armor_stand"
+  }
+}

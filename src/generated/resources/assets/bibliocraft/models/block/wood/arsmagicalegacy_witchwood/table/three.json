@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/table/three",
+  "textures": {
+    "texture": "arsmagicalegacy:block/witchwood_planks"
+  }
+}

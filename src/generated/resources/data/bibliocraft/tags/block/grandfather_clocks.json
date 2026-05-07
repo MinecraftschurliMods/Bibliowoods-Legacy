@@ -13,6 +13,10 @@
       "required": false
     },
     {
+      "id": "bibliocraft:arsmagicalegacy_witchwood_grandfather_clock",
+      "required": false
+    },
+    {
       "id": "bibliocraft:evilcraft_undead_grandfather_clock",
       "required": false
     },
