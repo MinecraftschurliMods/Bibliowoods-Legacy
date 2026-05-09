@@ -1,0 +1,27 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "evilcraft"
+        }
+    ],
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "bibliocraft:tall_seat_backs",
+    "key": {
+        "#": {
+            "item": "bibliocraft:brown_evilcraft_undead_flat_seat_back"
+        },
+        "S": {
+            "item": "evilcraft:undead_slab"
+        }
+    },
+    "pattern": [
+        "S",
+        "#"
+    ],
+    "result": {
+        "count": 1,
+        "id": "bibliocraft:brown_evilcraft_undead_tall_seat_back"
+    }
+}
