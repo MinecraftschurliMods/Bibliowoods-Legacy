@@ -1,5 +1,12 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "integrateddynamics"
+    }
+  ],
   "parent": "bibliocraft:block/template/display_case/wall_open",
+  "loader": "bibliocraft:conditional",
   "textures": {
     "color": "minecraft:block/light_gray_wool",
     "texture": "integrateddynamics:block/menril_planks"

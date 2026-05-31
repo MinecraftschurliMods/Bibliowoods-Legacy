@@ -1,5 +1,12 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
   "parent": "bibliocraft:block/template/seat/tall_seat_back",
+  "loader": "bibliocraft:conditional",
   "textures": {
     "color": "minecraft:block/orange_wool",
     "texture": "allthemodium:block/ancient_planks"

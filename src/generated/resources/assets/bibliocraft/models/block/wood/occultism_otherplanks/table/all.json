@@ -1,5 +1,12 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "occultism"
+    }
+  ],
   "parent": "bibliocraft:block/template/table/all",
+  "loader": "bibliocraft:conditional",
   "textures": {
     "texture": "occultism:block/otherplanks"
   }

@@ -1,5 +1,12 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "evilcraft"
+    }
+  ],
   "parent": "bibliocraft:block/template/fancy_armor_stand/bottom",
+  "loader": "bibliocraft:conditional",
   "textures": {
     "texture": "evilcraft:block/undead_planks"
   }

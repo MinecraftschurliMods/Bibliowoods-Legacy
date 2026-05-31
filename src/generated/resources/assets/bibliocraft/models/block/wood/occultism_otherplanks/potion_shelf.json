@@ -1,5 +1,12 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "occultism"
+    }
+  ],
   "parent": "bibliocraft:block/template/potion_shelf",
+  "loader": "bibliocraft:conditional",
   "textures": {
     "texture": "occultism:block/otherplanks"
   }

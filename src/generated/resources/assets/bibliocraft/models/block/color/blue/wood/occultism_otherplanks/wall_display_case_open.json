@@ -1,5 +1,12 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "occultism"
+    }
+  ],
   "parent": "bibliocraft:block/template/display_case/wall_open",
+  "loader": "bibliocraft:conditional",
   "textures": {
     "color": "minecraft:block/blue_wool",
     "texture": "occultism:block/otherplanks"

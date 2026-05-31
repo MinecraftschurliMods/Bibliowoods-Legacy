@@ -1,5 +1,12 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "forbidden_arcanus"
+    }
+  ],
   "parent": "bibliocraft:block/template/seat/fancy_seat_back",
+  "loader": "bibliocraft:conditional",
   "textures": {
     "color": "minecraft:block/white_wool",
     "texture": "forbidden_arcanus:block/edelwood_planks"

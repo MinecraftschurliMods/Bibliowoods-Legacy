@@ -1,5 +1,12 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "arsmagicalegacy"
+    }
+  ],
   "parent": "bibliocraft:block/template/bookcase/bookcase",
+  "loader": "bibliocraft:conditional",
   "textures": {
     "texture": "arsmagicalegacy:block/witchwood_planks"
   }

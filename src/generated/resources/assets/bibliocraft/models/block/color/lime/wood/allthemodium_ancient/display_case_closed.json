@@ -1,5 +1,12 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "allthemodium"
+    }
+  ],
   "parent": "bibliocraft:block/template/display_case/closed",
+  "loader": "bibliocraft:conditional",
   "textures": {
     "color": "minecraft:block/lime_wool",
     "texture": "allthemodium:block/ancient_planks"

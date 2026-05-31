@@ -1,5 +1,12 @@
 {
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "integrateddynamics"
+    }
+  ],
   "parent": "bibliocraft:block/template/shelf",
+  "loader": "bibliocraft:conditional",
   "textures": {
     "texture": "integrateddynamics:block/menril_planks"
   }
