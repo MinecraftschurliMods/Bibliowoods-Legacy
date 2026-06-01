@@ -1,0 +1,18 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aether_ii"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "bibliocraft:grandfather_clock",
+  "ingredients": [
+    "bibliocraft:aether_ii_greatroot_fancy_clock",
+    "bibliocraft:aether_ii_greatroot_fancy_clock"
+  ],
+  "result": {
+    "id": "bibliocraft:aether_ii_greatroot_grandfather_clock"
+  }
+}

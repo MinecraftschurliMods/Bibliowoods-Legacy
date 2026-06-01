@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aether_ii"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:potion_shelves",
+  "key": {
+    "#": "minecraft:glass_bottle",
+    "P": "aether_ii:amberoot_planks",
+    "S": "aether_ii:amberoot_slab"
+  },
+  "pattern": [
+    "SSS",
+    "P#P",
+    "SSS"
+  ],
+  "result": {
+    "id": "bibliocraft:aether_ii_amberoot_potion_shelf"
+  }
+}

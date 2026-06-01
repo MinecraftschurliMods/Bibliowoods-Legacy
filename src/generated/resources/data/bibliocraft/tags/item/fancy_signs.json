@@ -1,6 +1,22 @@
 {
   "values": [
     {
+      "id": "bibliocraft:aether_ii_skyroot_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_greatroot_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_wisproot_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_amberoot_fancy_sign",
+      "required": false
+    },
+    {
       "id": "bibliocraft:allthemodium_ancient_fancy_sign",
       "required": false
     },

@@ -1,6 +1,22 @@
 {
   "values": [
     {
+      "id": "bibliocraft:aether_ii_skyroot_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_greatroot_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_wisproot_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_amberoot_tool_rack",
+      "required": false
+    },
+    {
       "id": "bibliocraft:allthemodium_ancient_tool_rack",
       "required": false
     },

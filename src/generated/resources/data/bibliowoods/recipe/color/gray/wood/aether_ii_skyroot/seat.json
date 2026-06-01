@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aether_ii"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:seats",
+  "key": {
+    "R": "#c:rods/wooden",
+    "S": "aether_ii:skyroot_slab",
+    "W": "minecraft:gray_wool"
+  },
+  "pattern": [
+    " W ",
+    " S ",
+    "RSR"
+  ],
+  "result": {
+    "id": "bibliocraft:gray_aether_ii_skyroot_seat"
+  }
+}

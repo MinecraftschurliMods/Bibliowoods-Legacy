@@ -1,6 +1,22 @@
 {
   "values": [
     {
+      "id": "bibliocraft:aether_ii_skyroot_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_greatroot_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_wisproot_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_amberoot_shelf",
+      "required": false
+    },
+    {
       "id": "bibliocraft:allthemodium_ancient_shelf",
       "required": false
     },

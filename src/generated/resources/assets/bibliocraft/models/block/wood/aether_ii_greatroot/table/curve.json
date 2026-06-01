@@ -1,0 +1,13 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aether_ii"
+    }
+  ],
+  "parent": "bibliocraft:block/template/table/curve",
+  "loader": "bibliocraft:conditional",
+  "textures": {
+    "texture": "aether_ii:block/greatroot_planks"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aether_ii"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:flat_seat_backs",
+  "key": {
+    "R": "#c:rods/wooden",
+    "S": "aether_ii:skyroot_slab",
+    "W": "minecraft:cyan_wool"
+  },
+  "pattern": [
+    "RWR",
+    "RSR",
+    "R R"
+  ],
+  "result": {
+    "id": "bibliocraft:cyan_aether_ii_skyroot_flat_seat_back"
+  }
+}

@@ -1,6 +1,22 @@
 {
   "values": [
     {
+      "id": "bibliocraft:aether_ii_skyroot_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_greatroot_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_wisproot_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_amberoot_grandfather_clock",
+      "required": false
+    },
+    {
       "id": "bibliocraft:allthemodium_ancient_grandfather_clock",
       "required": false
     },

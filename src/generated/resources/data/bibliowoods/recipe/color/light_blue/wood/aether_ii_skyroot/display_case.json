@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aether_ii"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:display_cases",
+  "key": {
+    "G": "#c:glass_blocks",
+    "S": "aether_ii:skyroot_slab",
+    "W": "minecraft:light_blue_wool"
+  },
+  "pattern": [
+    "SGS",
+    "SWS",
+    "SSS"
+  ],
+  "result": {
+    "id": "bibliocraft:light_blue_aether_ii_skyroot_display_case"
+  }
+}

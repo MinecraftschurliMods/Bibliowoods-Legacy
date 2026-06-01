@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aether_ii"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:small_seat_backs",
+  "key": {
+    "S": "aether_ii:wisproot_slab",
+    "W": "minecraft:green_wool"
+  },
+  "pattern": [
+    "W",
+    "S"
+  ],
+  "result": {
+    "id": "bibliocraft:green_aether_ii_wisproot_small_seat_back"
+  }
+}

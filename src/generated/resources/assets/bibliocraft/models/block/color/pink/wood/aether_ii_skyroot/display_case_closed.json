@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aether_ii"
+    }
+  ],
+  "parent": "bibliocraft:block/template/display_case/closed",
+  "loader": "bibliocraft:conditional",
+  "textures": {
+    "color": "minecraft:block/pink_wool",
+    "texture": "aether_ii:block/skyroot_planks"
+  }
+}

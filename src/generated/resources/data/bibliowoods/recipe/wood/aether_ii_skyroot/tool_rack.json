@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "aether_ii"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tool_racks",
+  "key": {
+    "#": "#c:ingots/iron",
+    "S": "aether_ii:skyroot_slab"
+  },
+  "pattern": [
+    "SSS",
+    "S#S",
+    "SSS"
+  ],
+  "result": {
+    "id": "bibliocraft:aether_ii_skyroot_tool_rack"
+  }
+}

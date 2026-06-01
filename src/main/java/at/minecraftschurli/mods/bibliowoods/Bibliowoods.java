@@ -1,5 +1,6 @@
 package at.minecraftschurli.mods.bibliowoods;
 
+import at.minecraftschurli.mods.bibliowoods.mods.AetherIIMod;
 import at.minecraftschurli.mods.bibliowoods.mods.AllthemodiumMod;
 import at.minecraftschurli.mods.bibliowoods.mods.ArsMagicaLegacyMod;
 import at.minecraftschurli.mods.bibliowoods.mods.EvilCraftMod;
@@ -19,6 +20,7 @@ public final class Bibliowoods {
 
     public Bibliowoods(IEventBus bus) {
         //addIfLoaded("aether",             bus, AetherMod::new);
+        addIfLoaded("aether_ii",          bus, AetherIIMod::new);
         addIfLoaded("allthemodium",       bus, AllthemodiumMod::new);
         addIfLoaded("arsmagicalegacy",    bus, ArsMagicaLegacyMod::new);
         //addIfLoaded("ars_nouveau",        bus, ArsNouveauMod::new);

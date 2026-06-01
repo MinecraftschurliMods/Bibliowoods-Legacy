@@ -1,6 +1,22 @@
 {
   "values": [
     {
+      "id": "bibliocraft:aether_ii_skyroot_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_greatroot_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_wisproot_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:aether_ii_amberoot_table",
+      "required": false
+    },
+    {
       "id": "bibliocraft:allthemodium_ancient_table",
       "required": false
     },

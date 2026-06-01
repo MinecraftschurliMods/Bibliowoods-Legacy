@@ -1,0 +1,6 @@
+{
+  "parent": "bibliocraft:block/template/clock/fancy_inventory",
+  "textures": {
+    "texture": "aether_ii:block/skyroot_planks"
+  }
+}

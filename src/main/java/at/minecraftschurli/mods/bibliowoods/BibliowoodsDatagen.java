@@ -35,6 +35,7 @@ public final class BibliowoodsDatagen {
         });
         BibliocraftDatagenHelper helper = BibliocraftApi.getDatagenHelper();
         //helper.addWoodTypesToGenerateByModid("aether");
+        helper.addWoodTypesToGenerateByModid("aether_ii");
         helper.addWoodTypesToGenerateByModid("allthemodium");
         helper.addWoodTypesToGenerateByModid("arsmagicalegacy");
         //helper.addWoodTypesToGenerateByModid("ars_nouveau");
