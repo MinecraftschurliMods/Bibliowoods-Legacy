@@ -40,7 +40,7 @@ dependencies {
     //implementation "curse.maven:aether-255308:7043502"
     //implementation "curse.maven:owo-lib-532610:6785734"
     // Allthemodium
-    implementation "curse.maven:allthemodium-364466:8021821"
+    implementation "curse.maven:allthemodium-364466:8157737"
     implementation "curse.maven:ato-405593:8023670"
     // Ars Magica: Legacy
     // TODO use maven instead
@@ -76,7 +76,7 @@ dependencies {
     //implementation "curse.maven:extradelight-842106:8035753"
     //implementation "xyz.brassgoggledcoders:PatchouliProvider:1.21.1-1.0.11-Snapshot.5"
     // Forbidden Arcanus
-    implementation "curse.maven:forbidden-arcanus-309858:8028945"
+    implementation "curse.maven:forbidden-arcanus-309858:8077869"
     implementation "curse.maven:valhelsia-core-416935:7916512"
     // GregTech
     //implementation "curse.maven:gregtechceu-modern-890405:6792853"
@@ -93,8 +93,8 @@ dependencies {
     // My Nether's Delight
     //implementation "curse.maven:my-nethers-delight-1003673:8029219"
     // Occultism
-    implementation "curse.maven:occultism-361026:8026737"
-    implementation "curse.maven:modonomicon-538392:8026704"
+    implementation "curse.maven:occultism-361026:8160066"
+    implementation "curse.maven:modonomicon-538392:8160129"
     //implementation "curse.maven:smartbrainlib-661293:7055149"
     // Roots
     //implementation "curse.maven:roots-246183:7789182"
