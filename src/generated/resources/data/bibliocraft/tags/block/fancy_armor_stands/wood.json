@@ -39,6 +39,10 @@
     {
       "id": "bibliocraft:occultism_otherplanks_fancy_armor_stand",
       "required": false
+    },
+    {
+      "id": "bibliocraft:silentgear_netherwood_fancy_armor_stand",
+      "required": false
     }
   ]
 }

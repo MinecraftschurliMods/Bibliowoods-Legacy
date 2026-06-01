@@ -639,6 +639,70 @@
     {
       "id": "bibliocraft:black_occultism_otherplanks_fancy_seat_back",
       "required": false
+    },
+    {
+      "id": "bibliocraft:white_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_silentgear_netherwood_fancy_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_silentgear_netherwood_fancy_seat_back",
+      "required": false
     }
   ]
 }

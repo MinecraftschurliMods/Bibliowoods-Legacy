@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "silentgear"
+    }
+  ],
+  "parent": "bibliocraft:block/template/seat/raised_seat_back",
+  "loader": "bibliocraft:conditional",
+  "textures": {
+    "color": "minecraft:block/gray_wool",
+    "texture": "silentgear:block/netherwood_planks"
+  }
+}

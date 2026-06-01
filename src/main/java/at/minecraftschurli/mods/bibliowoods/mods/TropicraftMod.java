@@ -1,4 +1,3 @@
-/*
 package at.minecraftschurli.mods.bibliowoods.mods;
 
 import at.minecraftschurli.mods.bibliocraft.api.woodtype.RegisterBibliocraftWoodTypesEvent;
@@ -19,4 +18,3 @@ public class TropicraftMod extends AbstractMod {
 		woodType(event, "palm", TropicraftWoodTypes.PALM, TropicraftBlocks.PALM_PLANKS, TropicraftBlocks.PALM_SLAB, TropicraftBlocks.PALM_STAIRS);
 	}
 }
-*/

@@ -39,6 +39,10 @@
     {
       "id": "bibliocraft:occultism_otherplanks_grandfather_clock",
       "required": false
+    },
+    {
+      "id": "bibliocraft:silentgear_netherwood_grandfather_clock",
+      "required": false
     }
   ]
 }

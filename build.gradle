@@ -19,16 +19,14 @@ sourceSets.main.resources {
 
 dependencies {
     // Uncomment next line for local testing
-    implementation files("libs/bibliocraft-${mc_version}-${bc_version}.jar")
+    //implementation files("libs/bibliocraft-${mc_version}-${bc_version}.jar")
 
-    /*
-    compileOnly "com.github.minecraftschurlimods:bibliocraft:${mc_version}-${bc_version}:api"
-    runtimeOnly ("com.github.minecraftschurlimods:bibliocraft:${mc_version}-${bc_version}") {
+    compileOnly "at.minecraftschurli.mods:bibliocraft:${mc_version}-${bc_version}:api"
+    runtimeOnly ("at.minecraftschurli.mods:bibliocraft:${mc_version}-${bc_version}") /*{
         exclude module: "gallery-1173553"
         exclude module: "blueprint-382216"
         exclude module: "buzzier-bees-355458"
-    }
-    */
+    }*/
     compileOnly "mezz.jei:jei-${mc_version}-neoforge-api:${jei_version}"
     runtimeOnly "mezz.jei:jei-${mc_version}-neoforge:${jei_version}"
 
@@ -39,6 +37,8 @@ dependencies {
     // Aether
     //implementation "curse.maven:aether-255308:7043502"
     //implementation "curse.maven:owo-lib-532610:6785734"
+    // Aether II
+    implementation "curse.maven:aether-ii-223796:8045002"
     // Allthemodium
     implementation "curse.maven:allthemodium-364466:8157737"
     implementation "curse.maven:ato-405593:8023670"
@@ -59,7 +59,7 @@ dependencies {
     // Create: Garnished
     //implementation "curse.maven:garnished-923277:7777194"
     //implementation "curse.maven:create-328085:7963363"
-    //implementation "com.tterrag.registrate:Registrate:MC26.1-1.5.0"
+    compileOnly "com.tterrag.registrate:Registrate:MC26.1-1.5.0"
     // Deep Aether
     //implementation "curse.maven:deep-aether-852465:7843283"
     // Deeper and Darker
@@ -67,8 +67,8 @@ dependencies {
     // Eternal Starlight
     //implementation "curse.maven:eternal-starlight-1080592:7788339"
     // EvilCraft
-    implementation "curse.maven:evilcraft-74610:8042416"
-    implementation "curse.maven:cyclops-core-232758:8051979"
+    implementation "curse.maven:evilcraft-74610:8143368"
+    implementation "curse.maven:cyclops-core-232758:8126812"
     // Expanded Delight
     //implementation "curse.maven:expanded-delight-620770:7441587"
     //implementation "curse.maven:farmers-delight-398521:8007613"
@@ -83,8 +83,8 @@ dependencies {
     // Hexerei
     //implementation "maven.modrinth:hexerei:0.5.0.3"
     // Integrated Dynamics
-    implementation "curse.maven:integrated-dynamics-236307:8042417"
-    implementation "curse.maven:common-capabilities-247007:8006291"
+    implementation "curse.maven:integrated-dynamics-236307:8168412"
+    implementation "curse.maven:common-capabilities-247007:8102778"
     // Just Another Witchery Remake
     //implementation "curse.maven:just-another-witchery-remake-1125946:8011721"
     //implementation "curse.maven:architectury-api-419699:5786327"
@@ -99,12 +99,12 @@ dependencies {
     // Roots
     //implementation "curse.maven:roots-246183:7789182"
     // Silent Gear
-    //implementation "curse.maven:silent-gear-297039:7942046"
-    //implementation "curse.maven:silent-lib-242998:7936002"
+    implementation "curse.maven:silent-gear-297039:8089163"
+    implementation "curse.maven:silent-lib-242998:7936002"
     // Thaumon
     //implementation "curse.maven:thaumon-926511:5492714"
     // Tropicraft
-    //implementation "curse.maven:tropicraft-254794:7951705"
+    implementation "curse.maven:tropicraft-254794:7951705"
     // Twilight Forest
     //implementation "curse.maven:the-twilight-forest-227639:7797302"
     // Undergarden

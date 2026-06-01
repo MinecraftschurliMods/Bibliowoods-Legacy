@@ -39,6 +39,10 @@
     {
       "id": "bibliocraft:occultism_otherplanks_label",
       "required": false
+    },
+    {
+      "id": "bibliocraft:silentgear_netherwood_label",
+      "required": false
     }
   ]
 }
