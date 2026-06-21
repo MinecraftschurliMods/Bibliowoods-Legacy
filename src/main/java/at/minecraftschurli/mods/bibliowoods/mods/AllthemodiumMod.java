@@ -1,3 +1,4 @@
+/*
 package at.minecraftschurli.mods.bibliowoods.mods;
 
 import at.minecraftschurli.mods.bibliocraft.api.woodtype.RegisterBibliocraftWoodTypesEvent;
@@ -17,3 +18,4 @@ public class AllthemodiumMod extends AbstractMod {
         woodType(event, "demonic", ATMBlocks.DEMONIC_PLANKS, ATMBlocks.DEMONIC_SLAB, ATMBlocks.DEMONIC_STAIRS);
     }
 }
+*/

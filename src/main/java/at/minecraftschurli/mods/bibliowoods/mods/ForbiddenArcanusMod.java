@@ -1,3 +1,4 @@
+/*
 package at.minecraftschurli.mods.bibliowoods.mods;
 
 import at.minecraftschurli.mods.bibliocraft.api.woodtype.RegisterBibliocraftWoodTypesEvent;
@@ -18,3 +19,4 @@ public class ForbiddenArcanusMod extends AbstractMod {
         woodType(event, "edelwood", ModWoodTypes.EDELWOOD, ModBlocks.EDELWOOD_PLANKS, ModBlocks.EDELWOOD_SLAB, ModBlocks.EDELWOOD_STAIRS);
     }
 }
+*/

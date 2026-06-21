@@ -1,3 +1,4 @@
+/*
 package at.minecraftschurli.mods.bibliowoods.mods;
 
 import at.minecraftschurli.mods.bibliocraft.api.woodtype.RegisterBibliocraftWoodTypesEvent;
@@ -16,3 +17,4 @@ public class SilentGearMod extends AbstractMod {
         woodType(event, "netherwood", WoodType.CRIMSON, SgBlocks.NETHERWOOD_PLANKS, SgBlocks.NETHERWOOD_SLAB, SgBlocks.NETHERWOOD_STAIRS);
     }
 }
+*/

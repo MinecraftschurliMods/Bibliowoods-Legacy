@@ -1,13 +1,6 @@
 package at.minecraftschurli.mods.bibliowoods;
 
-import at.minecraftschurli.mods.bibliowoods.mods.AetherIIMod;
-import at.minecraftschurli.mods.bibliowoods.mods.AllthemodiumMod;
-import at.minecraftschurli.mods.bibliowoods.mods.ArsMagicaLegacyMod;
-import at.minecraftschurli.mods.bibliowoods.mods.EvilCraftMod;
-import at.minecraftschurli.mods.bibliowoods.mods.ForbiddenArcanusMod;
-import at.minecraftschurli.mods.bibliowoods.mods.IntegratedDynamicsMod;
-import at.minecraftschurli.mods.bibliowoods.mods.OccultismMod;
-import at.minecraftschurli.mods.bibliowoods.mods.SilentGearMod;
+import at.minecraftschurli.mods.bibliowoods.mods.TropicraftMod;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModList;
 import net.neoforged.fml.common.Mod;
@@ -20,30 +13,30 @@ public final class Bibliowoods {
 
     public Bibliowoods(IEventBus bus) {
         //addIfLoaded("aether",             bus, AetherMod::new);
-        addIfLoaded("aether_ii",          bus, AetherIIMod::new);
-        addIfLoaded("allthemodium",       bus, AllthemodiumMod::new);
-        addIfLoaded("arsmagicalegacy",    bus, ArsMagicaLegacyMod::new);
+        //addIfLoaded("aether_ii",          bus, AetherIIMod::new);
+        //addIfLoaded("allthemodium",       bus, AllthemodiumMod::new);
+        //addIfLoaded("arsmagicalegacy",    bus, ArsMagicaLegacyMod::new);
         //addIfLoaded("ars_nouveau",        bus, ArsNouveauMod::new);
         //addIfLoaded("butchercraft",       bus, ButchercraftMod::new);
         //addIfLoaded("cobblemon",          bus, CobblemonMod::new);
         //addIfLoaded("deep_aether",        bus, DeepAetherMod::new);
         //addIfLoaded("deeperdarker",       bus, DeeperAndDarkerMod::new);
         //addIfLoaded("eternal_starlight",  bus, EternalStarlightMod::new);
-        addIfLoaded("evilcraft",          bus, EvilCraftMod::new);
+        //addIfLoaded("evilcraft",          bus, EvilCraftMod::new);
         //addIfLoaded("expandeddelight",    bus, ExpandedDelightMod::new);
         //addIfLoaded("extradelight",       bus, ExtraDelightMod::new);
-        addIfLoaded("forbidden_arcanus",  bus, ForbiddenArcanusMod::new);
+        //addIfLoaded("forbidden_arcanus",  bus, ForbiddenArcanusMod::new);
         //addIfLoaded("garnished",          bus, GarnishedMod::new);
         //addIfLoaded("gtceu",              bus, GregTechMod::new);
         //addIfLoaded("hexerei",            bus, HexereiMod::new);
-        addIfLoaded("integrateddynamics", bus, IntegratedDynamicsMod::new);
+        //addIfLoaded("integrateddynamics", bus, IntegratedDynamicsMod::new);
         //addIfLoaded("mirthdew_encore",    bus, MirthdewEncoreMod::new);
         //addIfLoaded("mynethersdelight",   bus, MyNethersDelightMod::new);
-        addIfLoaded("occultism",          bus, OccultismMod::new);
+        //addIfLoaded("occultism",          bus, OccultismMod::new);
         //addIfLoaded("roots",              bus, RootsMod::new);
-        addIfLoaded("silentgear",         bus, SilentGearMod::new);
+        //addIfLoaded("silentgear",         bus, SilentGearMod::new);
         //addIfLoaded("thaumon",            bus, ThaumonMod::new);
-        //addIfLoaded("tropicraft",         bus, TropicraftMod::new);
+        addIfLoaded("tropicraft",         bus, TropicraftMod::new);
         //addIfLoaded("twilightforest",     bus, TwilightForestMod::new);
         //addIfLoaded("undergarden",        bus, UndergardenMod::new);
         //addIfLoaded("vampirism",          bus, VampirismMod::new);

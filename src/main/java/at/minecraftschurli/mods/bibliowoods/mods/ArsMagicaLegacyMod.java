@@ -1,3 +1,4 @@
+/*
 package at.minecraftschurli.mods.bibliowoods.mods;
 
 import at.minecraftschurli.mods.arsmagicalegacy.init.AMBlocks;
@@ -15,3 +16,4 @@ public class ArsMagicaLegacyMod extends AbstractMod {
         woodType(event, "witchwood", AMBlocks.WITCHWOOD_WOOD_TYPE, AMBlocks.WITCHWOOD_PLANKS, AMBlocks.WITCHWOOD_BLOCK_FAMILY);
     }
 }
+*/

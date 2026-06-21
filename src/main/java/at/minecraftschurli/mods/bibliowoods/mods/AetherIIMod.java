@@ -1,3 +1,4 @@
+/*
 package at.minecraftschurli.mods.bibliowoods.mods;
 
 import at.minecraftschurli.mods.bibliocraft.api.woodtype.RegisterBibliocraftWoodTypesEvent;
@@ -19,3 +20,4 @@ public class AetherIIMod extends AbstractMod {
         woodType(event, "amberoot", AetherIIWoodTypes.AMBEROOT, AetherIIBlocks.AMBEROOT_PLANKS, AetherIIBlocks.AMBEROOT_SLAB, AetherIIBlocks.AMBEROOT_STAIRS);
     }
 }
+*/

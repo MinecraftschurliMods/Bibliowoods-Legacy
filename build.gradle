@@ -38,18 +38,18 @@ dependencies {
     //implementation "curse.maven:aether-255308:7043502"
     //implementation "curse.maven:owo-lib-532610:6785734"
     // Aether II
-    implementation "curse.maven:aether-ii-223796:8045002"
+    //implementation "curse.maven:aether-ii-223796:8045002"
     // Allthemodium
-    implementation "curse.maven:allthemodium-364466:8157737"
-    implementation "curse.maven:ato-405593:8023670"
+    //implementation "curse.maven:allthemodium-364466:8157737"
+    //implementation "curse.maven:ato-405593:8023670"
     // Ars Magica: Legacy
     // TODO use maven instead
-    implementation files("libs/arsmagicalegacy-${mc_version}-1.6.0-SNAPSHOT.jar")
-    implementation "vazkii.patchouli:patchouli-neoforge:26.1-94-SNAPSHOT"
+    //implementation files("libs/arsmagicalegacy-${mc_version}-1.6.0-SNAPSHOT.jar")
+    //implementation "vazkii.patchouli:patchouli-neoforge:26.1-94-SNAPSHOT"
     // Ars Nouveau
     //implementation "curse.maven:ars-nouveau-401955:7764018"
-    implementation "curse.maven:curios-309927:7925547"
-    implementation "curse.maven:geckolib-388172:7913641"
+    //implementation "curse.maven:curios-309927:7925547"
+    //implementation "curse.maven:geckolib-388172:7913641"
     // Butchercraft
     //implementation "curse.maven:butchercraft-265715:7777338"
     // Cobblemon
@@ -67,8 +67,8 @@ dependencies {
     // Eternal Starlight
     //implementation "curse.maven:eternal-starlight-1080592:7788339"
     // EvilCraft
-    implementation "curse.maven:evilcraft-74610:8143368"
-    implementation "curse.maven:cyclops-core-232758:8126812"
+    //implementation "curse.maven:evilcraft-74610:8143368"
+    //implementation "curse.maven:cyclops-core-232758:8126812"
     // Expanded Delight
     //implementation "curse.maven:expanded-delight-620770:7441587"
     //implementation "curse.maven:farmers-delight-398521:8007613"
@@ -76,15 +76,15 @@ dependencies {
     //implementation "curse.maven:extradelight-842106:8035753"
     //implementation "xyz.brassgoggledcoders:PatchouliProvider:1.21.1-1.0.11-Snapshot.5"
     // Forbidden Arcanus
-    implementation "curse.maven:forbidden-arcanus-309858:8077869"
-    implementation "curse.maven:valhelsia-core-416935:7916512"
+    //implementation "curse.maven:forbidden-arcanus-309858:8077869"
+    //implementation "curse.maven:valhelsia-core-416935:7916512"
     // GregTech
     //implementation "curse.maven:gregtechceu-modern-890405:6792853"
     // Hexerei
     //implementation "maven.modrinth:hexerei:0.5.0.3"
     // Integrated Dynamics
-    implementation "curse.maven:integrated-dynamics-236307:8168412"
-    implementation "curse.maven:common-capabilities-247007:8102778"
+    //implementation "curse.maven:integrated-dynamics-236307:8168412"
+    //implementation "curse.maven:common-capabilities-247007:8102778"
     // Just Another Witchery Remake
     //implementation "curse.maven:just-another-witchery-remake-1125946:8011721"
     //implementation "curse.maven:architectury-api-419699:5786327"
@@ -93,14 +93,14 @@ dependencies {
     // My Nether's Delight
     //implementation "curse.maven:my-nethers-delight-1003673:8029219"
     // Occultism
-    implementation "curse.maven:occultism-361026:8160066"
-    implementation "curse.maven:modonomicon-538392:8160129"
+    //implementation "curse.maven:occultism-361026:8160066"
+    //implementation "curse.maven:modonomicon-538392:8160129"
     //implementation "curse.maven:smartbrainlib-661293:7055149"
     // Roots
     //implementation "curse.maven:roots-246183:7789182"
     // Silent Gear
-    implementation "curse.maven:silent-gear-297039:8089163"
-    implementation "curse.maven:silent-lib-242998:7936002"
+    //implementation "curse.maven:silent-gear-297039:8089163"
+    //implementation "curse.maven:silent-lib-242998:7936002"
     // Thaumon
     //implementation "curse.maven:thaumon-926511:5492714"
     // Tropicraft
@@ -128,7 +128,7 @@ neoForge {
 
     runs {
         configureEach {
-            logLevel = org.slf4j.event.Level.DEBUG
+            logLevel = org.slf4j.event.Level.TRACE
             // We ran out of RAM before.
             jvmArgument('-Xmx6G')
         }

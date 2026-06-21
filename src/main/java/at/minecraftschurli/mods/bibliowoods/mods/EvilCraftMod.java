@@ -1,3 +1,4 @@
+/*
 package at.minecraftschurli.mods.bibliowoods.mods;
 
 import at.minecraftschurli.mods.bibliocraft.api.woodtype.RegisterBibliocraftWoodTypesEvent;
@@ -22,3 +23,4 @@ public class EvilCraftMod extends AbstractMod {
         woodType(event, "undead", planks, slab, stairs);
     }
 }
+*/
