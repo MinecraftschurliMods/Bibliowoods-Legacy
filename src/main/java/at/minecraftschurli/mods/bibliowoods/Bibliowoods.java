@@ -3,6 +3,7 @@ package at.minecraftschurli.mods.bibliowoods;
 import at.minecraftschurli.mods.bibliowoods.mods.AetherIIMod;
 import at.minecraftschurli.mods.bibliowoods.mods.AllthemodiumMod;
 import at.minecraftschurli.mods.bibliowoods.mods.ArsMagicaLegacyMod;
+import at.minecraftschurli.mods.bibliowoods.mods.EcologicsMod;
 import at.minecraftschurli.mods.bibliowoods.mods.EvilCraftMod;
 import at.minecraftschurli.mods.bibliowoods.mods.ForbiddenArcanusMod;
 import at.minecraftschurli.mods.bibliowoods.mods.IntegratedDynamicsMod;
@@ -28,6 +29,7 @@ public final class Bibliowoods {
         //addIfLoaded("cobblemon",          bus, CobblemonMod::new);
         //addIfLoaded("deep_aether",        bus, DeepAetherMod::new);
         //addIfLoaded("deeperdarker",       bus, DeeperAndDarkerMod::new);
+        addIfLoaded("ecologics",          bus, EcologicsMod::new);
         //addIfLoaded("eternal_starlight",  bus, EternalStarlightMod::new);
         addIfLoaded("evilcraft",          bus, EvilCraftMod::new);
         //addIfLoaded("expandeddelight",    bus, ExpandedDelightMod::new);

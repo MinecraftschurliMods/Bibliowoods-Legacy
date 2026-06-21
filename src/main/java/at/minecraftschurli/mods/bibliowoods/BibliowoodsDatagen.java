@@ -43,6 +43,7 @@ public final class BibliowoodsDatagen {
         //helper.addWoodTypesToGenerateByModid("cobblemon");
         //helper.addWoodTypesToGenerateByModid("deep_aether");
         //helper.addWoodTypesToGenerateByModid("deeperdarker");
+        helper.addWoodTypesToGenerateByModid("ecologics");
         //helper.addWoodTypesToGenerateByModid("eternal_starlight");
         helper.addWoodTypesToGenerateByModid("evilcraft");
         //helper.addWoodTypesToGenerateByModid("expandeddelight");

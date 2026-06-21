@@ -33,6 +33,18 @@
       "required": false
     },
     {
+      "id": "bibliocraft:ecologics_coconut_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ecologics_walnut_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ecologics_azalea_tool_rack",
+      "required": false
+    },
+    {
       "id": "bibliocraft:evilcraft_undead_tool_rack",
       "required": false
     },

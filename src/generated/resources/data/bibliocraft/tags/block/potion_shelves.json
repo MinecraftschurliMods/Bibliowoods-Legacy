@@ -33,6 +33,18 @@
       "required": false
     },
     {
+      "id": "bibliocraft:ecologics_coconut_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ecologics_walnut_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ecologics_azalea_potion_shelf",
+      "required": false
+    },
+    {
       "id": "bibliocraft:evilcraft_undead_potion_shelf",
       "required": false
     },

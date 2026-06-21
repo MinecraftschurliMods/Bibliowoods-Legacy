@@ -33,6 +33,18 @@
       "required": false
     },
     {
+      "id": "bibliocraft:ecologics_coconut_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ecologics_walnut_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ecologics_azalea_shelf",
+      "required": false
+    },
+    {
       "id": "bibliocraft:evilcraft_undead_shelf",
       "required": false
     },

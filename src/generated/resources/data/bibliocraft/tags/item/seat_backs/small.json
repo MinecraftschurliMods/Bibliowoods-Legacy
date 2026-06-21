@@ -513,6 +513,198 @@
       "required": false
     },
     {
+      "id": "bibliocraft:white_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_ecologics_coconut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_ecologics_walnut_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:white_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:orange_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:magenta_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_blue_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:yellow_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:lime_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:pink_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:gray_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:light_gray_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:cyan_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:purple_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:blue_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:brown_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:green_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:red_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:black_ecologics_azalea_small_seat_back",
+      "required": false
+    },
+    {
       "id": "bibliocraft:white_evilcraft_undead_small_seat_back",
       "required": false
     },

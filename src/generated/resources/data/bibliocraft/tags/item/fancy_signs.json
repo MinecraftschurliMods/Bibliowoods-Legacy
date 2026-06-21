@@ -33,6 +33,18 @@
       "required": false
     },
     {
+      "id": "bibliocraft:ecologics_coconut_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ecologics_walnut_fancy_sign",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ecologics_azalea_fancy_sign",
+      "required": false
+    },
+    {
       "id": "bibliocraft:evilcraft_undead_fancy_sign",
       "required": false
     },

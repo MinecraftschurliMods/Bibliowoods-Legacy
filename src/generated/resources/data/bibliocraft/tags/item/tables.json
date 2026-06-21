@@ -33,6 +33,18 @@
       "required": false
     },
     {
+      "id": "bibliocraft:ecologics_coconut_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ecologics_walnut_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:ecologics_azalea_table",
+      "required": false
+    },
+    {
       "id": "bibliocraft:evilcraft_undead_table",
       "required": false
     },
