@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ecologics"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:potion_shelves",
+  "key": {
+    "#": "minecraft:glass_bottle",
+    "P": "ecologics:walnut_planks",
+    "S": "ecologics:walnut_slab"
+  },
+  "pattern": [
+    "SSS",
+    "P#P",
+    "SSS"
+  ],
+  "result": {
+    "id": "bibliocraft:ecologics_walnut_potion_shelf"
+  }
+}

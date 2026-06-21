@@ -1,0 +1,21 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ecologics"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_seat_backs",
+  "key": {
+    "#": "bibliocraft:green_ecologics_coconut_flat_seat_back",
+    "S": "ecologics:coconut_slab"
+  },
+  "pattern": [
+    "S#S"
+  ],
+  "result": {
+    "id": "bibliocraft:green_ecologics_coconut_fancy_seat_back"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ecologics"
+    }
+  ],
+  "parent": "bibliocraft:block/template/label",
+  "loader": "bibliocraft:conditional",
+  "textures": {
+    "texture": "ecologics:block/walnut_planks"
+  }
+}

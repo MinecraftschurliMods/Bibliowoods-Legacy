@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ecologics"
+    }
+  ],
+  "parent": "bibliocraft:block/template/seat/seat",
+  "loader": "bibliocraft:conditional",
+  "textures": {
+    "color": "minecraft:block/green_wool",
+    "texture": "ecologics:block/azalea_planks"
+  }
+}

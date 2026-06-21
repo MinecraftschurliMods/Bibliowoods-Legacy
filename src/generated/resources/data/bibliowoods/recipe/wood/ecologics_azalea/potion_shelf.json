@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ecologics"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:potion_shelves",
+  "key": {
+    "#": "minecraft:glass_bottle",
+    "P": "ecologics:azalea_planks",
+    "S": "ecologics:azalea_slab"
+  },
+  "pattern": [
+    "SSS",
+    "P#P",
+    "SSS"
+  ],
+  "result": {
+    "id": "bibliocraft:ecologics_azalea_potion_shelf"
+  }
+}

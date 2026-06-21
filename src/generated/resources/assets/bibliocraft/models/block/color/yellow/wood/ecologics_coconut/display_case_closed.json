@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ecologics"
+    }
+  ],
+  "parent": "bibliocraft:block/template/display_case/closed",
+  "loader": "bibliocraft:conditional",
+  "textures": {
+    "color": "minecraft:block/yellow_wool",
+    "texture": "ecologics:block/coconut_planks"
+  }
+}

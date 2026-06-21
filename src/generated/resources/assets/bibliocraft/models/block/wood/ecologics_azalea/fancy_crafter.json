@@ -1,0 +1,13 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ecologics"
+    }
+  ],
+  "parent": "bibliocraft:block/template/fancy_crafter",
+  "loader": "bibliocraft:conditional",
+  "textures": {
+    "texture": "ecologics:block/azalea_planks"
+  }
+}

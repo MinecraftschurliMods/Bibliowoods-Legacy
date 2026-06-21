@@ -1,0 +1,27 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ecologics"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_crafter",
+  "key": {
+    "C": "minecraft:crafter",
+    "F": "#c:feathers",
+    "G": "#c:glass_blocks",
+    "I": "#c:dyes/black",
+    "P": "ecologics:coconut_planks",
+    "T": "#c:player_workstations/crafting_tables"
+  },
+  "pattern": [
+    "ITF",
+    "PGP",
+    "PCP"
+  ],
+  "result": {
+    "id": "bibliocraft:ecologics_coconut_fancy_crafter"
+  }
+}

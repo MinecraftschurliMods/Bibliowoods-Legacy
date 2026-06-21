@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ecologics"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:small_seat_backs",
+  "key": {
+    "S": "ecologics:azalea_slab",
+    "W": "minecraft:light_blue_wool"
+  },
+  "pattern": [
+    "W",
+    "S"
+  ],
+  "result": {
+    "id": "bibliocraft:light_blue_ecologics_azalea_small_seat_back"
+  }
+}

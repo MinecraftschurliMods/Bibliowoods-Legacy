@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "ecologics"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tall_seat_backs",
+  "key": {
+    "#": "bibliocraft:purple_ecologics_coconut_flat_seat_back",
+    "S": "ecologics:coconut_slab"
+  },
+  "pattern": [
+    "S",
+    "#"
+  ],
+  "result": {
+    "id": "bibliocraft:purple_ecologics_coconut_tall_seat_back"
+  }
+}
