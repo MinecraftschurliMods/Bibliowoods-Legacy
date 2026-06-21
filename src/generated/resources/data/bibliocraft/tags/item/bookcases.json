@@ -57,6 +57,18 @@
             "required": false
         },
         {
+            "id": "bibliocraft:ecologics_coconut_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_walnut_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_azalea_bookcase",
+            "required": false
+        },
+        {
             "id": "bibliocraft:eternal_starlight_lunar_bookcase",
             "required": false
         },

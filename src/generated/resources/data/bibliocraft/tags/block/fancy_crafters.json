@@ -57,6 +57,18 @@
             "required": false
         },
         {
+            "id": "bibliocraft:ecologics_coconut_fancy_crafter",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_walnut_fancy_crafter",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_azalea_fancy_crafter",
+            "required": false
+        },
+        {
             "id": "bibliocraft:eternal_starlight_lunar_fancy_crafter",
             "required": false
         },

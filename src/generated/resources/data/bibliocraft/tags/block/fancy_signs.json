@@ -113,6 +113,30 @@
             "required": false
         },
         {
+            "id": "bibliocraft:ecologics_coconut_fancy_sign",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_coconut_wall_fancy_sign",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_walnut_fancy_sign",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_walnut_wall_fancy_sign",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_azalea_fancy_sign",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_azalea_wall_fancy_sign",
+            "required": false
+        },
+        {
             "id": "bibliocraft:eternal_starlight_lunar_fancy_sign",
             "required": false
         },

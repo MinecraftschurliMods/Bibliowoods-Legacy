@@ -57,6 +57,18 @@
             "required": false
         },
         {
+            "id": "bibliocraft:ecologics_coconut_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_walnut_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_azalea_grandfather_clock",
+            "required": false
+        },
+        {
             "id": "bibliocraft:eternal_starlight_lunar_grandfather_clock",
             "required": false
         },

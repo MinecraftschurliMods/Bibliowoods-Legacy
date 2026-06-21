@@ -58,6 +58,8 @@ dependencies {
     implementation "curse.maven:deep-aether-852465:7843283"
     // Deeper and Darker
     implementation "curse.maven:deeperdarker-659011:7940538"
+    // Ecologics
+    implementation "curse.maven:ecologics-570463:8104866"
     // Eternal Starlight
     implementation "curse.maven:eternal-starlight-1080592:7788339"
     // EvilCraft
@@ -142,6 +144,7 @@ neoForge {
                     '--existing-mod', 'cobblemon',
                     '--existing-mod', 'deep_aether',
                     '--existing-mod', 'deeperdarker',
+                    '--existing-mod', 'ecologics',
                     '--existing-mod', 'eternal_starlight',
                     '--existing-mod', 'evilcraft',
                     '--existing-mod', 'expandeddelight',

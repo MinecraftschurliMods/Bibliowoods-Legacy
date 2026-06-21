@@ -7,6 +7,7 @@ import com.github.minecraftschurlimods.bibliowoods.mods.ButchercraftMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.CobblemonMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.DeepAetherMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.DeeperAndDarkerMod;
+import com.github.minecraftschurlimods.bibliowoods.mods.EcologicsMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.EternalStarlightMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.EvilCraftMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.ExpandedDelightMod;
@@ -47,6 +48,7 @@ public final class Bibliowoods {
         addIfLoaded("cobblemon",         bus, CobblemonMod::new);
         addIfLoaded("deep_aether",       bus, DeepAetherMod::new);
         addIfLoaded("deeperdarker",      bus, DeeperAndDarkerMod::new);
+        addIfLoaded("ecologics",         bus, EcologicsMod::new);
         addIfLoaded("eternal_starlight", bus, EternalStarlightMod::new);
         addIfLoaded("evilcraft",         bus, EvilCraftMod::new);
         addIfLoaded("expandeddelight",   bus, ExpandedDelightMod::new);

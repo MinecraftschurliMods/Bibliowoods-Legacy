@@ -1,0 +1,6 @@
+{
+    "parent": "bibliocraft:block/template/bookcase/bookcase",
+    "textures": {
+        "texture": "ecologics:block/coconut_planks"
+    }
+}

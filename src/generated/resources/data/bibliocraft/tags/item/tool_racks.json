@@ -57,6 +57,18 @@
             "required": false
         },
         {
+            "id": "bibliocraft:ecologics_coconut_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_walnut_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:ecologics_azalea_tool_rack",
+            "required": false
+        },
+        {
             "id": "bibliocraft:eternal_starlight_lunar_tool_rack",
             "required": false
         },
