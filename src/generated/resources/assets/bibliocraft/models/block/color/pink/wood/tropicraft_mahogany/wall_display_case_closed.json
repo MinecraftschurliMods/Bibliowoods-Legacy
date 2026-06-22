@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tropicraft"
+    }
+  ],
+  "parent": "bibliocraft:block/template/display_case/wall_closed",
+  "loader": "bibliocraft:conditional",
+  "textures": {
+    "color": "minecraft:block/pink_wool",
+    "texture": "tropicraft:block/mahogany_planks"
+  }
+}

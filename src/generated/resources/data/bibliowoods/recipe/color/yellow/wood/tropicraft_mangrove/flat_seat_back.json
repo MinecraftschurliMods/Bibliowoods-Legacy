@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tropicraft"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:flat_seat_backs",
+  "key": {
+    "R": "#c:rods/wooden",
+    "S": "tropicraft:mangrove_slab",
+    "W": "minecraft:yellow_wool"
+  },
+  "pattern": [
+    "RWR",
+    "RSR",
+    "R R"
+  ],
+  "result": {
+    "id": "bibliocraft:yellow_tropicraft_mangrove_flat_seat_back"
+  }
+}

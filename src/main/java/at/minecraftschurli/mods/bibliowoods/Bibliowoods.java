@@ -9,6 +9,7 @@ import at.minecraftschurli.mods.bibliowoods.mods.ForbiddenArcanusMod;
 import at.minecraftschurli.mods.bibliowoods.mods.IntegratedDynamicsMod;
 import at.minecraftschurli.mods.bibliowoods.mods.OccultismMod;
 import at.minecraftschurli.mods.bibliowoods.mods.SilentGearMod;
+import at.minecraftschurli.mods.bibliowoods.mods.TropicraftMod;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModList;
 import net.neoforged.fml.common.Mod;
@@ -45,7 +46,7 @@ public final class Bibliowoods {
         //addIfLoaded("roots",              bus, RootsMod::new);
         addIfLoaded("silentgear",         bus, SilentGearMod::new);
         //addIfLoaded("thaumon",            bus, ThaumonMod::new);
-        //addIfLoaded("tropicraft",         bus, TropicraftMod::new);
+        addIfLoaded("tropicraft",         bus, TropicraftMod::new);
         //addIfLoaded("twilightforest",     bus, TwilightForestMod::new);
         //addIfLoaded("undergarden",        bus, UndergardenMod::new);
         //addIfLoaded("vampirism",          bus, VampirismMod::new);

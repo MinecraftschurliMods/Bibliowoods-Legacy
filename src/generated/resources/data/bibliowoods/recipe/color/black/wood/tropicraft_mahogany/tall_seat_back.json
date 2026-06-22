@@ -1,0 +1,22 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tropicraft"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tall_seat_backs",
+  "key": {
+    "#": "bibliocraft:black_tropicraft_mahogany_flat_seat_back",
+    "S": "tropicraft:mahogany_slab"
+  },
+  "pattern": [
+    "S",
+    "#"
+  ],
+  "result": {
+    "id": "bibliocraft:black_tropicraft_mahogany_tall_seat_back"
+  }
+}

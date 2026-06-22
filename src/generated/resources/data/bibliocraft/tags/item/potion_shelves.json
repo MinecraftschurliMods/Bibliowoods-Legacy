@@ -71,6 +71,18 @@
     {
       "id": "bibliocraft:silentgear_netherwood_potion_shelf",
       "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mahogany_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mangrove_potion_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_palm_potion_shelf",
+      "required": false
     }
   ]
 }

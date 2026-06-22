@@ -71,6 +71,18 @@
     {
       "id": "bibliocraft:silentgear_netherwood_grandfather_clock",
       "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mahogany_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mangrove_grandfather_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_palm_grandfather_clock",
+      "required": false
     }
   ]
 }

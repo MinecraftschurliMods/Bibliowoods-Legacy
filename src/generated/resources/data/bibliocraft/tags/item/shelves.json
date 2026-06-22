@@ -71,6 +71,18 @@
     {
       "id": "bibliocraft:silentgear_netherwood_shelf",
       "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mahogany_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mangrove_shelf",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_palm_shelf",
+      "required": false
     }
   ]
 }

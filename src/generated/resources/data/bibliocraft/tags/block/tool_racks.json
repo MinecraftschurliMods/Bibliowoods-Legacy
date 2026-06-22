@@ -71,6 +71,18 @@
     {
       "id": "bibliocraft:silentgear_netherwood_tool_rack",
       "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mahogany_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mangrove_tool_rack",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_palm_tool_rack",
+      "required": false
     }
   ]
 }

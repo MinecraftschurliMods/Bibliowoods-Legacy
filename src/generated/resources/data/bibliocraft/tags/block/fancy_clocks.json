@@ -143,6 +143,30 @@
     {
       "id": "bibliocraft:silentgear_netherwood_wall_fancy_clock",
       "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mahogany_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mahogany_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mangrove_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mangrove_wall_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_palm_fancy_clock",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_palm_wall_fancy_clock",
+      "required": false
     }
   ]
 }

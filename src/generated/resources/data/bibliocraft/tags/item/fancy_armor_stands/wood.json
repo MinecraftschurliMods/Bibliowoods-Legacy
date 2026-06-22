@@ -71,6 +71,18 @@
     {
       "id": "bibliocraft:silentgear_netherwood_fancy_armor_stand",
       "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mahogany_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mangrove_fancy_armor_stand",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_palm_fancy_armor_stand",
+      "required": false
     }
   ]
 }

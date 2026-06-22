@@ -1,0 +1,13 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tropicraft"
+    }
+  ],
+  "parent": "bibliocraft:block/template/bookcase/bookcase",
+  "loader": "bibliocraft:conditional",
+  "textures": {
+    "texture": "tropicraft:block/mahogany_planks"
+  }
+}

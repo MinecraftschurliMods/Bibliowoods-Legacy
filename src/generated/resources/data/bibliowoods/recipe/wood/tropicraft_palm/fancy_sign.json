@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tropicraft"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_sign",
+  "key": {
+    "#": "minecraft:paper",
+    "P": "tropicraft:palm_planks",
+    "R": "#c:rods/wooden"
+  },
+  "pattern": [
+    "P#P",
+    "P#P",
+    " R "
+  ],
+  "result": {
+    "id": "bibliocraft:tropicraft_palm_fancy_sign"
+  }
+}

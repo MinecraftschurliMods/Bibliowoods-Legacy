@@ -71,6 +71,18 @@
     {
       "id": "bibliocraft:silentgear_netherwood_table",
       "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mahogany_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mangrove_table",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_palm_table",
+      "required": false
     }
   ]
 }

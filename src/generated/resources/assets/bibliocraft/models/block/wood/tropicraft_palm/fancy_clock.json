@@ -1,0 +1,13 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "tropicraft"
+    }
+  ],
+  "parent": "bibliocraft:block/template/clock/fancy",
+  "loader": "bibliocraft:conditional",
+  "textures": {
+    "texture": "tropicraft:block/palm_planks"
+  }
+}

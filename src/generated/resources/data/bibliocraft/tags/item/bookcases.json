@@ -71,6 +71,18 @@
     {
       "id": "bibliocraft:silentgear_netherwood_bookcase",
       "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mahogany_bookcase",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_mangrove_bookcase",
+      "required": false
+    },
+    {
+      "id": "bibliocraft:tropicraft_palm_bookcase",
+      "required": false
     }
   ]
 }

@@ -59,7 +59,7 @@ public final class BibliowoodsDatagen {
         //helper.addWoodTypesToGenerateByModid("roots");
         helper.addWoodTypesToGenerateByModid("silentgear");
         //helper.addWoodTypesToGenerateByModid("thaumon");
-        //helper.addWoodTypesToGenerateByModid("tropicraft");
+        helper.addWoodTypesToGenerateByModid("tropicraft");
         //helper.addWoodTypesToGenerateByModid("twilightforest");
         //helper.addWoodTypesToGenerateByModid("undergarden");
         //helper.addWoodTypesToGenerateByModid("vampirism");
