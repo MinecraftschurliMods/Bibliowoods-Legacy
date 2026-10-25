@@ -38,24 +38,23 @@ dependencies {
     //implementation "curse.maven:aether-255308:7043502"
     //implementation "curse.maven:owo-lib-532610:6785734"
     // Aether II
-    implementation "curse.maven:aether-ii-223796:8045002"
+    implementation "curse.maven:aether-ii-223796:8502033"
     // Allthemodium
-    implementation "curse.maven:allthemodium-364466:8157737"
+    implementation "curse.maven:allthemodium-364466:9120636"
     implementation "curse.maven:ato-405593:8023670"
     // Ars Magica: Legacy
-    // TODO use maven instead
-    implementation files("libs/arsmagicalegacy-${mc_version}-1.6.0-SNAPSHOT.jar")
-    implementation "vazkii.patchouli:patchouli-neoforge:26.1-94-SNAPSHOT"
+    implementation "curse.maven:ars-magica-legacy-350734:9233093"
+    implementation "curse.maven:patchouli-306770:8404543"
     // Ars Nouveau
     //implementation "curse.maven:ars-nouveau-401955:7764018"
-    implementation "curse.maven:curios-309927:7925547"
-    implementation "curse.maven:geckolib-388172:7913641"
+    implementation "curse.maven:curios-309927:8463519"
+    implementation "curse.maven:geckolib-388172:8327201"
     // Butchercraft
     //implementation "curse.maven:butchercraft-265715:7777338"
     // Cobblemon
     //implementation "curse.maven:cobblemon-687131:7553231"
     //implementation "curse.maven:accessories-938917:7583320"
-    //implementation "curse.maven:kotlin-for-forge-351264:7471280"
+    implementation "curse.maven:kotlin-for-forge-351264:9123340"
     // Create: Garnished
     //implementation "curse.maven:garnished-923277:7777194"
     //implementation "curse.maven:create-328085:7963363"
@@ -65,12 +64,12 @@ dependencies {
     // Deeper and Darker
     //implementation "curse.maven:deeperdarker-659011:7940538"
     // Ecologics
-    implementation "curse.maven:ecologics-570463:8270388"
+    implementation "curse.maven:ecologics-570463:9305853"
     // Eternal Starlight
     //implementation "curse.maven:eternal-starlight-1080592:7788339"
     // EvilCraft
-    implementation "curse.maven:evilcraft-74610:8143368"
-    implementation "curse.maven:cyclops-core-232758:8126812"
+    implementation "curse.maven:evilcraft-74610:9310410"
+    implementation "curse.maven:cyclops-core-232758:9285141"
     // Expanded Delight
     //implementation "curse.maven:expanded-delight-620770:7441587"
     //implementation "curse.maven:farmers-delight-398521:8007613"
@@ -78,39 +77,39 @@ dependencies {
     //implementation "curse.maven:extradelight-842106:8035753"
     //implementation "xyz.brassgoggledcoders:PatchouliProvider:1.21.1-1.0.11-Snapshot.5"
     // Forbidden Arcanus
-    implementation "curse.maven:forbidden-arcanus-309858:8077869"
+    implementation "curse.maven:forbidden-arcanus-309858:9302358"
     implementation "curse.maven:valhelsia-core-416935:7916512"
     // GregTech
     //implementation "curse.maven:gregtechceu-modern-890405:6792853"
     // Hexerei
     //implementation "maven.modrinth:hexerei:0.5.0.3"
     // Integrated Dynamics
-    implementation "curse.maven:integrated-dynamics-236307:8168412"
-    implementation "curse.maven:common-capabilities-247007:8102778"
+    implementation "curse.maven:integrated-dynamics-236307:9219630"
+    implementation "curse.maven:common-capabilities-247007:8859273"
     // Just Another Witchery Remake
-    //implementation "curse.maven:just-another-witchery-remake-1125946:8011721"
-    //implementation "curse.maven:architectury-api-419699:5786327"
+    implementation "curse.maven:just-another-witchery-remake-1125946:9302789"
+    implementation "curse.maven:lithostitched-936015:9170254"
     // Mirthdew Encore
     //implementation "maven.modrinth:mirthdew-encore:0.2.0.3.neoforge"
     // My Nether's Delight
     //implementation "curse.maven:my-nethers-delight-1003673:8029219"
     // Occultism
-    implementation "curse.maven:occultism-361026:8160066"
-    implementation "curse.maven:modonomicon-538392:8160129"
+    implementation "curse.maven:occultism-361026:9126580"
+    implementation "curse.maven:modonomicon-538392:9154399"
     //implementation "curse.maven:smartbrainlib-661293:7055149"
     // Roots
     //implementation "curse.maven:roots-246183:7789182"
     // Silent Gear
-    implementation "curse.maven:silent-gear-297039:8089163"
+    implementation "curse.maven:silent-gear-297039:8735808"
     implementation "curse.maven:silent-lib-242998:7936002"
     // Thaumon
     //implementation "curse.maven:thaumon-926511:5492714"
     // Tropicraft
-    implementation "curse.maven:tropicraft-254794:7951705"
+    implementation "curse.maven:tropicraft-254794:8285189"
     // Twilight Forest
     //implementation "curse.maven:the-twilight-forest-227639:7797302"
     // Undergarden
-    //implementation "curse.maven:the-undergarden-379849:7862546"
+    implementation "curse.maven:the-undergarden-379849:8725682"
     // Vampirism
     //implementation "curse.maven:vampirism-become-a-vampire-233029:7807026"
     // Wandering Wizardry

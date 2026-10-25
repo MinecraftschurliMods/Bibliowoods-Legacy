@@ -1,4 +1,3 @@
-/*
 package at.minecraftschurli.mods.bibliowoods.mods;
 
 import at.minecraftschurli.mods.bibliocraft.api.woodtype.RegisterBibliocraftWoodTypesEvent;
@@ -14,9 +13,9 @@ public class UndergardenMod extends AbstractMod {
 
     @Override
     protected void registerWoodTypes(RegisterBibliocraftWoodTypesEvent event) {
-        woodType(event, "smogstem",   UGWoodStuff.SMOGSTEM_WOOD_TYPE,   UGBlocks.SMOGSTEM_PLANKS,   UGBlocks.SMOGSTEM_SLAB,   UGBlocks.SMOGSTEM_STAIRS);
-        woodType(event, "wigglewood", UGWoodStuff.WIGGLEWOOD_WOOD_TYPE, UGBlocks.WIGGLEWOOD_PLANKS, UGBlocks.WIGGLEWOOD_SLAB, UGBlocks.WIGGLEWOOD_STAIRS);
-        woodType(event, "grongle",    UGWoodStuff.GRONGLE_WOOD_TYPE,    UGBlocks.GRONGLE_PLANKS,    UGBlocks.GRONGLE_SLAB,    UGBlocks.GRONGLE_STAIRS);
+        woodType(event, "smogstem",     UGWoodStuff.SMOGSTEM_WOOD_TYPE,     UGBlocks.SMOGSTEM_PLANKS,     UGBlocks.SMOGSTEM_SLAB,     UGBlocks.SMOGSTEM_STAIRS);
+        woodType(event, "wigglewood",   UGWoodStuff.WIGGLEWOOD_WOOD_TYPE,   UGBlocks.WIGGLEWOOD_PLANKS,   UGBlocks.WIGGLEWOOD_SLAB,   UGBlocks.WIGGLEWOOD_STAIRS);
+        woodType(event, "grongle",      UGWoodStuff.GRONGLE_WOOD_TYPE,      UGBlocks.GRONGLE_PLANKS,      UGBlocks.GRONGLE_SLAB,      UGBlocks.GRONGLE_STAIRS);
+        woodType(event, "ancient_root", UGWoodStuff.ANCIENT_ROOT_WOOD_TYPE, UGBlocks.ANCIENT_ROOT_PLANKS, UGBlocks.ANCIENT_ROOT_SLAB, UGBlocks.ANCIENT_ROOT_STAIRS);
     }
 }
-*/

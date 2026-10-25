@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "undergarden"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:tables",
+  "key": {
+    "P": "undergarden:grongle_planks",
+    "S": "undergarden:grongle_slab"
+  },
+  "pattern": [
+    "SSS",
+    " P ",
+    " P "
+  ],
+  "result": {
+    "id": "bibliocraft:undergarden_grongle_table"
+  }
+}

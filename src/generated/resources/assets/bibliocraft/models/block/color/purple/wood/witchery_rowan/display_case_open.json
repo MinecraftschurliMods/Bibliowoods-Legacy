@@ -1,0 +1,14 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "witchery"
+    }
+  ],
+  "parent": "bibliocraft:block/template/display_case/open",
+  "loader": "bibliocraft:conditional",
+  "textures": {
+    "color": "minecraft:block/purple_wool",
+    "texture": "witchery:block/rowan_planks"
+  }
+}

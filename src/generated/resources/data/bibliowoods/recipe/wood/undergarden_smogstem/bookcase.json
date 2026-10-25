@@ -1,0 +1,23 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "undergarden"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:bookcases",
+  "key": {
+    "P": "undergarden:smogstem_planks",
+    "S": "undergarden:smogstem_slab"
+  },
+  "pattern": [
+    "PSP",
+    "PSP",
+    "PSP"
+  ],
+  "result": {
+    "id": "bibliocraft:undergarden_smogstem_bookcase"
+  }
+}

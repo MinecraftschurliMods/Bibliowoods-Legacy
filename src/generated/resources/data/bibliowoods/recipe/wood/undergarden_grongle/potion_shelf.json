@@ -1,0 +1,24 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "undergarden"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:potion_shelves",
+  "key": {
+    "#": "minecraft:glass_bottle",
+    "P": "undergarden:grongle_planks",
+    "S": "undergarden:grongle_slab"
+  },
+  "pattern": [
+    "SSS",
+    "P#P",
+    "SSS"
+  ],
+  "result": {
+    "id": "bibliocraft:undergarden_grongle_potion_shelf"
+  }
+}

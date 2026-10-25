@@ -1,0 +1,21 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "neoforge:mod_loaded",
+      "modid": "undergarden"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "bibliocraft:fancy_seat_backs",
+  "key": {
+    "#": "bibliocraft:light_blue_undergarden_smogstem_flat_seat_back",
+    "S": "undergarden:smogstem_slab"
+  },
+  "pattern": [
+    "S#S"
+  ],
+  "result": {
+    "id": "bibliocraft:light_blue_undergarden_smogstem_fancy_seat_back"
+  }
+}

@@ -10,6 +10,8 @@ import at.minecraftschurli.mods.bibliowoods.mods.IntegratedDynamicsMod;
 import at.minecraftschurli.mods.bibliowoods.mods.OccultismMod;
 import at.minecraftschurli.mods.bibliowoods.mods.SilentGearMod;
 import at.minecraftschurli.mods.bibliowoods.mods.TropicraftMod;
+import at.minecraftschurli.mods.bibliowoods.mods.UndergardenMod;
+import at.minecraftschurli.mods.bibliowoods.mods.WitcheryMod;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModList;
 import net.neoforged.fml.common.Mod;
@@ -48,10 +50,10 @@ public final class Bibliowoods {
         //addIfLoaded("thaumon",            bus, ThaumonMod::new);
         addIfLoaded("tropicraft",         bus, TropicraftMod::new);
         //addIfLoaded("twilightforest",     bus, TwilightForestMod::new);
-        //addIfLoaded("undergarden",        bus, UndergardenMod::new);
+        addIfLoaded("undergarden",        bus, UndergardenMod::new);
         //addIfLoaded("vampirism",          bus, VampirismMod::new);
         //addIfLoaded("werewolves",         bus, WerewolvesMod::new);
-        //addIfLoaded("witchery",           bus, WitcheryMod::new);
+        addIfLoaded("witchery",           bus, WitcheryMod::new);
         //addIfLoaded("wwizardry",          bus, WWizardryMod::new);
     }
 

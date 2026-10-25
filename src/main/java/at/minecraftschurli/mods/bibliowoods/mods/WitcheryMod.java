@@ -1,4 +1,3 @@
-/*
 package at.minecraftschurli.mods.bibliowoods.mods;
 
 import at.minecraftschurli.mods.bibliocraft.api.woodtype.RegisterBibliocraftWoodTypesEvent;
@@ -10,30 +9,29 @@ import net.neoforged.bus.api.IEventBus;
 import java.lang.invoke.MethodHandles;
 
 public class WitcheryMod extends AbstractMod {
-	public WitcheryMod(String modId, IEventBus bus) {
-		super(modId, bus);
-	}
-
-	private static final WoodType ALDER_WOOD_TYPE;
-	private static final WoodType HAWTHORN_WOOD_TYPE;
-	private static final WoodType ROWAN_WOOD_TYPE;
+    private static final WoodType ROWAN_WOOD_TYPE;
+    private static final WoodType ALDER_WOOD_TYPE;
+    private static final WoodType HAWTHORN_WOOD_TYPE;
 
 	static {
 		try {
 			MethodHandles.Lookup lookup = MethodHandles.privateLookupIn(WitcheryBlocks.class, MethodHandles.lookup());
-			ALDER_WOOD_TYPE = (WoodType) lookup.findStaticGetter(WitcheryBlocks.class, "ALDER_WOOD_TYPE", WoodType.class).invoke();
-			HAWTHORN_WOOD_TYPE = (WoodType) lookup.findStaticGetter(WitcheryBlocks.class, "HAWTHORN_WOOD_TYPE", WoodType.class).invoke();
-			ROWAN_WOOD_TYPE = (WoodType) lookup.findStaticGetter(WitcheryBlocks.class, "ROWAN_WOOD_TYPE", WoodType.class).invoke();
+            ROWAN_WOOD_TYPE =    (WoodType) lookup.findStaticGetter(WitcheryBlocks.class, "ROWAN_WOOD_TYPE",    WoodType.class).invoke();
+            ALDER_WOOD_TYPE =    (WoodType) lookup.findStaticGetter(WitcheryBlocks.class, "ALDER_WOOD_TYPE",    WoodType.class).invoke();
+            HAWTHORN_WOOD_TYPE = (WoodType) lookup.findStaticGetter(WitcheryBlocks.class, "HAWTHORN_WOOD_TYPE", WoodType.class).invoke();
 		} catch (Throwable e) {
 			throw new RuntimeException("Failed to find and invoke handles for WitcheryBlocks' WoodTypes", e);
 		}
 	}
 
-	@Override
+    public WitcheryMod(String modId, IEventBus bus) {
+        super(modId, bus);
+    }
+
+    @Override
 	protected void registerWoodTypes(RegisterBibliocraftWoodTypesEvent event) {
-		woodType(event, "alder", ALDER_WOOD_TYPE, WitcheryBlocks.INSTANCE.getALDER_PLANKS(), WitcheryBlocks.INSTANCE.getALDER_SLAB(), WitcheryBlocks.INSTANCE.getALDER_STAIRS());
-		woodType(event, "hawthorn", HAWTHORN_WOOD_TYPE, WitcheryBlocks.INSTANCE.getHAWTHORN_PLANKS(), WitcheryBlocks.INSTANCE.getHAWTHORN_SLAB(), WitcheryBlocks.INSTANCE.getHAWTHORN_STAIRS());
-		woodType(event, "rowan", ROWAN_WOOD_TYPE, WitcheryBlocks.INSTANCE.getROWAN_PLANKS(), WitcheryBlocks.INSTANCE.getROWAN_SLAB(), WitcheryBlocks.INSTANCE.getROWAN_STAIRS());
+        woodType(event, "rowan",    ROWAN_WOOD_TYPE,    WitcheryBlocks.INSTANCE.getROWAN_PLANKS(),    WitcheryBlocks.INSTANCE.getROWAN_SLAB(),    WitcheryBlocks.INSTANCE.getROWAN_STAIRS());
+        woodType(event, "alder",    ALDER_WOOD_TYPE,    WitcheryBlocks.INSTANCE.getALDER_PLANKS(),    WitcheryBlocks.INSTANCE.getALDER_SLAB(),    WitcheryBlocks.INSTANCE.getALDER_STAIRS());
+        woodType(event, "hawthorn", HAWTHORN_WOOD_TYPE, WitcheryBlocks.INSTANCE.getHAWTHORN_PLANKS(), WitcheryBlocks.INSTANCE.getHAWTHORN_SLAB(), WitcheryBlocks.INSTANCE.getHAWTHORN_STAIRS());
 	}
 }
-*/

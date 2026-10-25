@@ -61,10 +61,10 @@ public final class BibliowoodsDatagen {
         //helper.addWoodTypesToGenerateByModid("thaumon");
         helper.addWoodTypesToGenerateByModid("tropicraft");
         //helper.addWoodTypesToGenerateByModid("twilightforest");
-        //helper.addWoodTypesToGenerateByModid("undergarden");
+        helper.addWoodTypesToGenerateByModid("undergarden");
         //helper.addWoodTypesToGenerateByModid("vampirism");
         //helper.addWoodTypesToGenerateByModid("werewolves");
-        //helper.addWoodTypesToGenerateByModid("witchery");
+        helper.addWoodTypesToGenerateByModid("witchery");
         //helper.addWoodTypesToGenerateByModid("wwizardry");
         helper.generateAll(Bibliowoods.MOD_ID, lookupProvider, generator.getVanillaPack(true), generator.getVanillaPack(true), language, blockTags::tag, itemTags::tag);
     }
