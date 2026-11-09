@@ -5,6 +5,62 @@
             "required": false
         },
         {
+            "id": "bibliocraft:afc_araucaria_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_baobab_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_beech_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_cypress_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_eucalyptus_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_fig_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ginkgo_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_hevea_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ipe_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ironwood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_mahoe_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_mahogany_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_teak_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_tualang_tool_rack",
+            "required": false
+        },
+        {
             "id": "bibliocraft:allthemodium_ancient_tool_rack",
             "required": false
         },
@@ -190,6 +246,86 @@
         },
         {
             "id": "bibliocraft:silentgear_netherwood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_acacia_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_ash_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_aspen_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_birch_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_blackwood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_chestnut_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_douglas_fir_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_hickory_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_kapok_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_mangrove_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_maple_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_oak_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_palm_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_pine_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_rosewood_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_sequoia_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_spruce_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_sycamore_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_white_cedar_tool_rack",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_willow_tool_rack",
             "required": false
         },
         {

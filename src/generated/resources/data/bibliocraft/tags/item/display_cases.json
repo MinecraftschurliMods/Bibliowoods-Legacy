@@ -65,6 +65,902 @@
             "required": false
         },
         {
+            "id": "bibliocraft:white_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_araucaria_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_baobab_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_beech_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_cypress_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_eucalyptus_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_fig_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_ginkgo_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_hevea_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_ipe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_ironwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_mahoe_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_mahogany_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_teak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_afc_tualang_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_afc_tualang_display_case",
+            "required": false
+        },
+        {
             "id": "bibliocraft:white_allthemodium_ancient_display_case",
             "required": false
         },
@@ -3070,6 +3966,1286 @@
         },
         {
             "id": "bibliocraft:black_silentgear_netherwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_acacia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_ash_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_aspen_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_birch_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_blackwood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_chestnut_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_douglas_fir_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_hickory_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_kapok_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_mangrove_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_maple_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_oak_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_palm_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_pine_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_rosewood_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_sequoia_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_spruce_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_sycamore_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_white_cedar_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:white_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:orange_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:magenta_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_blue_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:yellow_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:lime_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:pink_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:gray_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:light_gray_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:cyan_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:purple_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:blue_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:brown_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:green_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:red_tfc_willow_display_case",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:black_tfc_willow_display_case",
             "required": false
         },
         {

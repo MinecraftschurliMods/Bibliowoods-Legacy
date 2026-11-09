@@ -37,6 +37,7 @@ public final class BibliowoodsDatagen {
         });
         BibliocraftDatagenHelper helper = BibliocraftApi.getDatagenHelper();
         helper.addWoodTypesToGenerateByModid("aether");
+        helper.addWoodTypesToGenerateByModid("afc");
         helper.addWoodTypesToGenerateByModid("allthemodium");
         helper.addWoodTypesToGenerateByModid("ars_nouveau");
         helper.addWoodTypesToGenerateByModid("butchercraft");
@@ -58,6 +59,7 @@ public final class BibliowoodsDatagen {
         helper.addWoodTypesToGenerateByModid("occultism");
         helper.addWoodTypesToGenerateByModid("roots");
         helper.addWoodTypesToGenerateByModid("silentgear");
+        helper.addWoodTypesToGenerateByModid("tfc");
         helper.addWoodTypesToGenerateByModid("thaumon");
         helper.addWoodTypesToGenerateByModid("tropicraft");
         helper.addWoodTypesToGenerateByModid("twilightforest");

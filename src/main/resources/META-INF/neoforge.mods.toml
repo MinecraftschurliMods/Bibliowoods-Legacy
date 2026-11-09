@@ -39,6 +39,11 @@ ordering="AFTER"
 side="BOTH"
 
 [[dependencies.${mod_id}]]
+modId="afc"
+type="optional"
+ordering="AFTER"
+side="BOTH"
+[[dependencies.${mod_id}]]
 modId="allthemodium"
 type="optional"
 ordering="AFTER"
@@ -152,6 +157,11 @@ type="optional"
 ordering="AFTER"
 side="BOTH"
 
+[[dependencies.${mod_id}]]
+modId="tfc"
+type="optional"
+ordering="AFTER"
+side="BOTH"
 [[dependencies.${mod_id}]]
 modId="thaumon"
 type="optional"

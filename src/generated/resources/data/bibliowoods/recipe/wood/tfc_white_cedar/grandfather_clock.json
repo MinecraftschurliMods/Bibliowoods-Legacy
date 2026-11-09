@@ -1,0 +1,23 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "tfc"
+        }
+    ],
+    "type": "minecraft:crafting_shapeless",
+    "category": "misc",
+    "group": "bibliocraft:grandfather_clock",
+    "ingredients": [
+        {
+            "item": "bibliocraft:tfc_white_cedar_fancy_clock"
+        },
+        {
+            "item": "bibliocraft:tfc_white_cedar_fancy_clock"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "id": "bibliocraft:tfc_white_cedar_grandfather_clock"
+    }
+}

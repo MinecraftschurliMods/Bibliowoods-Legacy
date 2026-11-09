@@ -5,6 +5,62 @@
             "required": false
         },
         {
+            "id": "bibliocraft:afc_araucaria_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_baobab_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_beech_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_cypress_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_eucalyptus_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_fig_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ginkgo_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_hevea_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ipe_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ironwood_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_mahoe_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_mahogany_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_teak_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_tualang_table",
+            "required": false
+        },
+        {
             "id": "bibliocraft:allthemodium_ancient_table",
             "required": false
         },
@@ -190,6 +246,86 @@
         },
         {
             "id": "bibliocraft:silentgear_netherwood_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_acacia_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_ash_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_aspen_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_birch_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_blackwood_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_chestnut_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_douglas_fir_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_hickory_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_kapok_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_mangrove_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_maple_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_oak_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_palm_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_pine_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_rosewood_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_sequoia_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_spruce_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_sycamore_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_white_cedar_table",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_willow_table",
             "required": false
         },
         {

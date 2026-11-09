@@ -2,6 +2,7 @@ package com.github.minecraftschurlimods.bibliowoods;
 
 import com.github.minecraftschurlimods.bibliowoods.mods.AetherMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.AllthemodiumMod;
+import com.github.minecraftschurlimods.bibliowoods.mods.ArborFirmaCraftMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.ArsNouveauMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.ButchercraftMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.CobblemonMod;
@@ -22,6 +23,7 @@ import com.github.minecraftschurlimods.bibliowoods.mods.MyNethersDelightMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.OccultismMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.RootsMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.SilentGearMod;
+import com.github.minecraftschurlimods.bibliowoods.mods.TerraFirmaCraftMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.ThaumonMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.TropicraftMod;
 import com.github.minecraftschurlimods.bibliowoods.mods.TwilightForestMod;
@@ -42,6 +44,7 @@ public final class Bibliowoods {
 
     public Bibliowoods(IEventBus bus) {
         addIfLoaded("aether",            bus, AetherMod::new);
+        addIfLoaded("afc",               bus, ArborFirmaCraftMod::new);
         addIfLoaded("allthemodium",      bus, AllthemodiumMod::new);
         addIfLoaded("ars_nouveau",       bus, ArsNouveauMod::new);
         addIfLoaded("butchercraft",      bus, ButchercraftMod::new);
@@ -63,6 +66,7 @@ public final class Bibliowoods {
         addIfLoaded("occultism",         bus, OccultismMod::new);
         addIfLoaded("roots",             bus, RootsMod::new);
         addIfLoaded("silentgear",        bus, SilentGearMod::new);
+        addIfLoaded("tfc",               bus, TerraFirmaCraftMod::new);
         addIfLoaded("thaumon",           bus, ThaumonMod::new);
         addIfLoaded("tropicraft",        bus, TropicraftMod::new);
         addIfLoaded("twilightforest",    bus, TwilightForestMod::new);

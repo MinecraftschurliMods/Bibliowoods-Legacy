@@ -5,6 +5,62 @@
             "required": false
         },
         {
+            "id": "bibliocraft:afc_araucaria_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_baobab_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_beech_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_cypress_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_eucalyptus_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_fig_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ginkgo_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_hevea_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ipe_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ironwood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_mahoe_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_mahogany_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_teak_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_tualang_fancy_clock",
+            "required": false
+        },
+        {
             "id": "bibliocraft:allthemodium_ancient_fancy_clock",
             "required": false
         },
@@ -190,6 +246,86 @@
         },
         {
             "id": "bibliocraft:silentgear_netherwood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_acacia_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_ash_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_aspen_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_birch_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_blackwood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_chestnut_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_douglas_fir_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_hickory_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_kapok_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_mangrove_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_maple_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_oak_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_palm_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_pine_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_rosewood_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_sequoia_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_spruce_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_sycamore_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_white_cedar_fancy_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_willow_fancy_clock",
             "required": false
         },
         {
