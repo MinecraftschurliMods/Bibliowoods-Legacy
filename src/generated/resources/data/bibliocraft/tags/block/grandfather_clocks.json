@@ -5,6 +5,62 @@
             "required": false
         },
         {
+            "id": "bibliocraft:afc_araucaria_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_baobab_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_beech_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_cypress_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_eucalyptus_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_fig_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ginkgo_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_hevea_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ipe_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ironwood_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_mahoe_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_mahogany_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_teak_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_tualang_grandfather_clock",
+            "required": false
+        },
+        {
             "id": "bibliocraft:allthemodium_ancient_grandfather_clock",
             "required": false
         },
@@ -190,6 +246,86 @@
         },
         {
             "id": "bibliocraft:silentgear_netherwood_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_acacia_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_ash_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_aspen_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_birch_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_blackwood_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_chestnut_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_douglas_fir_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_hickory_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_kapok_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_mangrove_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_maple_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_oak_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_palm_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_pine_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_rosewood_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_sequoia_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_spruce_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_sycamore_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_white_cedar_grandfather_clock",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_willow_grandfather_clock",
             "required": false
         },
         {

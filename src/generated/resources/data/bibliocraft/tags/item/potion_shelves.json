@@ -5,6 +5,62 @@
             "required": false
         },
         {
+            "id": "bibliocraft:afc_araucaria_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_baobab_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_beech_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_cypress_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_eucalyptus_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_fig_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ginkgo_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_hevea_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ipe_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ironwood_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_mahoe_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_mahogany_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_teak_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_tualang_potion_shelf",
+            "required": false
+        },
+        {
             "id": "bibliocraft:allthemodium_ancient_potion_shelf",
             "required": false
         },
@@ -190,6 +246,86 @@
         },
         {
             "id": "bibliocraft:silentgear_netherwood_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_acacia_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_ash_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_aspen_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_birch_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_blackwood_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_chestnut_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_douglas_fir_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_hickory_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_kapok_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_mangrove_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_maple_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_oak_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_palm_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_pine_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_rosewood_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_sequoia_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_spruce_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_sycamore_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_white_cedar_potion_shelf",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_willow_potion_shelf",
             "required": false
         },
         {

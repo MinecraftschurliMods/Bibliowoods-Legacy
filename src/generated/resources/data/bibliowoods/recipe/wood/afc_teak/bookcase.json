@@ -1,0 +1,28 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "afc"
+        }
+    ],
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "bibliocraft:bookcases",
+    "key": {
+        "P": {
+            "item": "afc:wood/planks/teak"
+        },
+        "S": {
+            "item": "afc:wood/planks/teak_slab"
+        }
+    },
+    "pattern": [
+        "PSP",
+        "PSP",
+        "PSP"
+    ],
+    "result": {
+        "count": 1,
+        "id": "bibliocraft:afc_teak_bookcase"
+    }
+}

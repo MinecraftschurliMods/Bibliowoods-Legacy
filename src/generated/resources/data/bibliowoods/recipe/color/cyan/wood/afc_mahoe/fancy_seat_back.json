@@ -1,0 +1,26 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "afc"
+        }
+    ],
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "group": "bibliocraft:fancy_seat_backs",
+    "key": {
+        "#": {
+            "item": "bibliocraft:cyan_afc_mahoe_flat_seat_back"
+        },
+        "S": {
+            "item": "afc:wood/planks/mahoe_slab"
+        }
+    },
+    "pattern": [
+        "S#S"
+    ],
+    "result": {
+        "count": 1,
+        "id": "bibliocraft:cyan_afc_mahoe_fancy_seat_back"
+    }
+}

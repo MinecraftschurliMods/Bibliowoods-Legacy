@@ -5,6 +5,62 @@
             "required": false
         },
         {
+            "id": "bibliocraft:afc_araucaria_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_baobab_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_beech_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_cypress_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_eucalyptus_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_fig_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ginkgo_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_hevea_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ipe_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_ironwood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_mahoe_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_mahogany_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_teak_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:afc_tualang_bookcase",
+            "required": false
+        },
+        {
             "id": "bibliocraft:allthemodium_ancient_bookcase",
             "required": false
         },
@@ -190,6 +246,86 @@
         },
         {
             "id": "bibliocraft:silentgear_netherwood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_acacia_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_ash_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_aspen_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_birch_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_blackwood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_chestnut_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_douglas_fir_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_hickory_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_kapok_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_mangrove_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_maple_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_oak_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_palm_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_pine_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_rosewood_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_sequoia_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_spruce_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_sycamore_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_white_cedar_bookcase",
+            "required": false
+        },
+        {
+            "id": "bibliocraft:tfc_willow_bookcase",
             "required": false
         },
         {

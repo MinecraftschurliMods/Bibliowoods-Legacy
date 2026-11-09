@@ -1,0 +1,42 @@
+{
+    "all": {
+        "parent": "bibliocraft:block/template/table/all",
+        "textures": {
+            "texture": "tfc:block/wood/planks/sequoia"
+        }
+    },
+    "curve": {
+        "parent": "bibliocraft:block/template/table/curve",
+        "textures": {
+            "texture": "tfc:block/wood/planks/sequoia"
+        }
+    },
+    "loader": "bibliocraft:table",
+    "none": {
+        "parent": "bibliocraft:block/template/table/none",
+        "textures": {
+            "texture": "tfc:block/wood/planks/sequoia"
+        }
+    },
+    "one": {
+        "parent": "bibliocraft:block/template/table/one",
+        "textures": {
+            "texture": "tfc:block/wood/planks/sequoia"
+        }
+    },
+    "straight": {
+        "parent": "bibliocraft:block/template/table/straight",
+        "textures": {
+            "texture": "tfc:block/wood/planks/sequoia"
+        }
+    },
+    "textures": {
+        "particle": "tfc:block/wood/planks/sequoia"
+    },
+    "three": {
+        "parent": "bibliocraft:block/template/table/three",
+        "textures": {
+            "texture": "tfc:block/wood/planks/sequoia"
+        }
+    }
+}

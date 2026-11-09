@@ -40,6 +40,8 @@ dependencies {
     implementation "curse.maven:owo-lib-532610:6785734"
     // Allthemodium
     implementation "curse.maven:allthemodium-364466:7974403"
+    // ArborFirmaCraft (a TerraFirmaCraft addon, see below)
+    implementation "maven.modrinth:arborfirmacraft-afc:2.0.11-1.21"
     // Ars Nouveau
     implementation "curse.maven:ars-nouveau-401955:7764018"
     implementation "curse.maven:curios-309927:6529130"
@@ -97,6 +99,9 @@ dependencies {
     // Silent Gear
     implementation "curse.maven:silent-gear-297039:8018307"
     implementation "curse.maven:silent-lib-242998:7935618"
+    // TerraFirmaCraft
+    implementation "maven.modrinth:terrafirmacraft:4.2.4"
+    implementation "maven.modrinth:patchouli:1.21.1-93-neoforge"
     // Thaumon
     implementation "curse.maven:thaumon-926511:5492714"
     // Tropicraft
@@ -138,6 +143,7 @@ neoForge {
                     '--existing',     file('src/main/resources/').getAbsolutePath(),
                     '--existing-mod', 'bibliocraft',
                     '--existing-mod', 'aether',
+                    '--existing-mod', 'afc',
                     '--existing-mod', 'allthemodium',
                     '--existing-mod', 'ars_nouveau',
                     '--existing-mod', 'butchercraft',
@@ -159,6 +165,7 @@ neoForge {
                     '--existing-mod', 'occultism',
                     '--existing-mod', 'roots',
                     '--existing-mod', 'silentgear',
+                    '--existing-mod', 'tfc',
                     '--existing-mod', 'thaumon',
                     '--existing-mod', 'tropicraft',
                     '--existing-mod', 'twilightforest',
@@ -202,5 +209,7 @@ tasks.named('processResources', ProcessResources) {
 jar {
     archiveBaseName = mod_id
     archiveVersion = "${mc_version}-${mod_version}"
+    // More than 65535 files once the generated resources of every supported mod are in.
+    zip64 = true
     processResources.exclude('**/.cache/**')
 }
